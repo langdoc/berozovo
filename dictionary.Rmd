@@ -33,11 +33,11 @@ Sanasto on jaettu kahteen osaan, vartaloiden ja erilaisten päätteiden mukaan.
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 datatable(lexemes %>%
-            filter(en != '_'))
+            filter(en != '_'), filter = "top", options = list(dom = 't'))
 ```
 
-## Sanakirja -- suffiksit
+## Sanakirja -- päätteet
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
-datatable(distinct(suffixes))
+datatable(distinct(suffixes), filter = "top", options = list(dom = 't'))
 ```
