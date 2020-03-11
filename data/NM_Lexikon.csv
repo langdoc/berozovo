@@ -1,0 +1,2582 @@
+,lemma,en,type,pos,de,note
+0,-a,_,suffix,_,_,_
+1,-al,MOM,suffix,Verb,МОМ,_
+2,-alt,MOM,suffix,Verb,MOM,_
+3,-amen,SG<1DU,suffix,Noun,SG<1DU,_
+4,-ameː,CVB,suffix,Non-finite verbal forms,CVB,_
+5,-amu,_,suffix,_,_,_
+6,-an,_,suffix,_,_,_
+7,-an,_,suffix,_,_,_
+8,-an,PL<2SG,suffix,Noun,PL<2SG,_
+9,-anal,_,suffix,_,_,_
+10,-anamen,PL<1DU,suffix,Verb,PL<1DU,_
+11,-anamen,PL<1DU,suffix,Noun,PL<1DU,_
+12,-anaw,PL<1PL,suffix,Noun,PL<1PL,_
+13,-ane,PL<3SG,suffix,Noun,PL<3SG,_
+14,-ane,PL<3SG,suffix,Verb,PL<3SG,_
+15,-anel,SG<3PL,suffix,Verb,SG<3PL,_
+16,-anel,SG<3PL,suffix,Noun,SG<3PL,_
+17,-anel,PL<3PL,suffix,Verb,PL<3PL,_
+18,-anen,PL<3DU,suffix,Noun,PL<3DU,_
+19,-anen,PL<3DU,suffix,Verb,PL<3DU,_
+20,-aneːn,_,suffix,_,_,_
+21,-ant,DUR,suffix,Verb,DUR,_
+22,-anum,PL<1SG,suffix,Noun,PL<1SG,_
+23,-anuw,PL<1PL,suffix,Noun,PL<1PL,_
+24,-anuw,PL<1PL,suffix,Verb,PL<1PL,_
+25,-anǝn,_,suffix,_,_,_
+26,-anə,_,suffix,_,_,_
+27,-anəl,PL<3PL,suffix,Verb,PL<3PL,_
+28,-anəl,_,suffix,_,_,_
+29,-anəm,PL<1SG,suffix,Verb,PL<1SG,_
+30,-ap,MOM,suffix,Verb,MOM,_
+31,-asʲl,DUR,suffix,Verb,DUR,_
+32,-at,MOM,suffix,Verb,MOM,_
+33,-at,NOMZR,suffix,Noun,NOMZR,_
+34,-attal,PTCP.NEG,suffix,Participle,PTCP.NEG,_
+35,-atʲeː,_,suffix,_,_,_
+36,-awə,_,suffix,_,_,_
+37,-axt,REFL,suffix,Verb,REFL,_
+38,-aŋ,_,suffix,_,_,_
+39,-aɣ,3DU,suffix,Verb,3DU,_
+40,-aɣe,DU<3SG,suffix,Verb,DU<3SG,_
+41,-aɣe,DU<3SG,suffix,Noun,DU<3SG,_
+42,-aɣən,DU<2SG,suffix,Noun,DU<2SG,_
+43,-aːl,_,suffix,_,_,_
+44,-aːnəl,_,suffix,_,_,_
+45,-ejin,_,suffix,_,_,_
+46,-eke,_,suffix,_,_,_
+47,-eln,IMP<SG,suffix,Verb,IMP<SG,_
+48,-elən,_,suffix,_,_,_
+49,-en,IMP,suffix,Verb,IMP,_
+50,-en,2DU,suffix,Verb,2DU,_
+51,-en,SG<3DU,suffix,Noun,SG<3DU,_
+52,-en,IMP<PL,suffix,Verb,IMP<PL,_
+53,-ena,_,suffix,_,_,_
+54,-enen,_,suffix,_,_,_
+55,-enuːw,_,suffix,_,_,_
+56,-eəɣ,_,suffix,_,_,_
+57,-eɣ,_,suffix,_,_,_
+58,-eɣ,3DU,suffix,Verb,_,_
+59,-eɣum,_,suffix,_,_,_
+60,-eɣum,DU<1SG,suffix,Noun,DU<1SG,_
+61,-eːɣ,PRS,suffix,Verb,PRS,_
+62,-i,PRS[3SG],suffix,Verb,PRS[3SG],_
+63,-ijane,_,suffix,_,_,_
+64,-ijn,_,suffix,_,_,_
+65,-ilameːn,_,suffix,_,_,_
+66,-ilan,_,suffix,_,_,_
+67,-ilen,_,suffix,_,_,_
+68,-im,PTCP.PASS,suffix,Participle,PTCP.PASS,_
+69,-ima,CVB,suffix,Non-finite verbal forms,CVB,_
+70,-ima,MIR.PASS,suffix,Verb,MIR.PASS,_
+71,-ime,CVB,suffix,Non-finite verbal forms,CVB,_
+72,-ime,PTCP.PASS,suffix,Non-finite verbal forms,PTCP.PASS,_
+73,-ime,MIR.PASS[3SG],suffix,Verb,MIR.PASS[3SG],_
+74,-imen,_,suffix,_,_,_
+75,-in,2DU,suffix,Verb,_,_
+76,-in,2SG,suffix,Verb,_,_
+77,-ine,_,suffix,_,_,_
+78,-inən,PL<2DU,suffix,Verb,_,_
+79,-inʲsʲ,COLL,suffix,Noun,COLL,_
+80,-ip,_,suffix,_,_,_
+81,-it,3PL,suffix,Verb,_,_
+82,-iɣ,_,suffix,_,_,_
+83,-iɣ,3DU,suffix,Verb,_,_
+84,-iɣl,FREQ,suffix,Verb,FREQ,_
+85,-iɣt,MOM,suffix,Verb,MOM,_
+86,-iːn,2DU,suffix,Verb,2DU,_
+87,-iːɣ,3DU,suffix,Verb,_,_
+88,-jane,_,suffix,_,_,_
+89,-janeːn,_,suffix,_,_,_
+90,-janl,_,suffix,_,_,_
+91,-janən,PL<2SG,suffix,Noun,PL<2SG,_
+92,-jaɣ,_,suffix,_,_,_
+93,-jaɣm,DU<1SG,suffix,Verb,DU<1SG,_
+94,-jaɣn,DU<2SG,suffix,Verb,DU<2SG,_
+95,-jaːɣum,_,suffix,_,_,_
+96,-juw,_,suffix,_,_,_
+97,-jən,2PL,suffix,Verb,2PL,_
+98,-jən,_,suffix,_,_,_
+99,-ke,PREC,suffix,Verb,PREC,_
+100,-keː,CVB,suffix,Non-finite verbal forms,_,_
+101,-kʷe,DIM,suffix,Noun,DIM,_
+102,-kʷə,_,suffix,_,_,_
+103,-l,DUR,suffix,Verb,DUR,_
+104,-lamen,SG<1DU,suffix,Verb,SG<1DU,_
+105,-lameːn,_,suffix,_,_,_
+106,-lan,FREQ,suffix,Verb,FREQ,_
+107,-lan,_,suffix,_,_,_
+108,-lanən,_,suffix,_,_,_
+109,-lat,VZER,suffix,Verb,VZER,_
+110,-law,_,suffix,_,_,_
+111,-len,SG<2DU,suffix,Verb,SG<2DU,_
+112,-len,_,suffix,_,_,_
+113,-liːn,SG<2DU,suffix,Verb,SG<2DU,_
+114,-lum,_,suffix,_,_,_
+115,-luw,SG<1PL,suffix,Verb,SG<1PL,_
+116,-lǝn,SG<2PL,suffix,Verb,SG<2PL,_
+117,-lǝn,SG<2SG,suffix,Verb,SG<2SG,_
+118,-ləl,_,suffix,_,_,_
+119,-ləm,SG<1SG,suffix,Verb,SG<1SG,_
+120,-lən,SG<2SG,suffix,Verb,_,_
+121,-ləɣt,MOM,suffix,Verb,MOM,Riese 2001
+122,-m,PTCP.PST,suffix,Non-finite verbal forms,_,_
+123,-m,MIR.PST,suffix,Verb,MIR.PST,_
+124,-m,1SG,suffix,Verb,1SG,_
+125,-m,SG<1SG,suffix,Noun,SG<1SG,_
+126,-mat,MOM,suffix,Verb,MOM,_
+127,-me,_,suffix,_,_,_
+128,-men,_,suffix,_,_,_
+129,-meːn,1DU,suffix,Verb,1DU,_
+130,-mt,MOM,suffix,Verb,MOM,_
+131,-n,SG<2DU,suffix,Noun,SG<2DU,"Variant ənən: Liimola, Matti (1963): Zur historischen Formenlehre des Wogulischen. I: Flexion der Nomina. Helsinki (MSFOu 127), 223."
+132,-n,2SG,suffix,Verb,_,_
+133,-n,SG<2SG,suffix,Noun,SG<2SG,_
+134,-n,DLAT,suffix,Noun,DLAT,_
+135,-ne,PTCP.PRS,suffix,Non-finite verbal forms,PTCP.PRS,_
+136,-ne,MIR.PRS,suffix,Verb,MIR.PRS,_
+137,-nen,PL<3DU,suffix,Noun,PL<3DU,_
+138,-nuw,DEG,suffix,Adjective,DEG,_
+139,-nuw,COND,suffix,Verb,COND,_
+140,-nuːw,_,suffix,_,_,_
+141,-nǝl,_,suffix,_,_,_
+142,-nə,_,suffix,_,_,_
+143,-nəl,ABL,suffix,Noun,ABL,_
+144,-nən,PL<2PL,suffix,Noun,PL<2PL,_
+145,-nən,_,suffix,_,_,_
+146,-os,_,suffix,_,_,_
+147,-oːs,_,suffix,_,_,_
+148,-p,ADJZR,suffix,Adjective,_,_
+149,-pa,_,suffix,_,_,_
+150,-rasʲ,_,suffix,_,_,_
+151,-risʲ,PREC,suffix,Verb,PREC,_
+152,-risʲ,DIM,suffix,Noun,DIM,_
+153,-s,PST,suffix,Verb,PST,_
+154,-s,MOM,suffix,Verb,MOM,_
+155,-sow,DIM,suffix,Substantive,DIM,_
+156,-t,_,suffix,_,_,_
+157,-t,PL,suffix,Noun,PL,_
+158,-t,CAUS,suffix,Verb,CAUS,_
+159,-t,LOC,suffix,Noun,LOC,_
+160,-t,3PL,suffix,Verb,3PL,_
+161,-t,SG<3SG,suffix,Verb,SG<3SG,_
+162,-tal,ABE,suffix,Adjective,_,_
+163,-tal,_,suffix,_,_,_
+164,-taːl,ABE,suffix,Adjective,ABE,_
+165,-te,SG<3SG,suffix,Noun,SG<3SG,_
+166,-te,SG<3SG,suffix,Verb,SG<3SG,_
+167,-ten,_,suffix,_,_,_
+168,-ten,3DU,suffix,Postposition,3DU,_
+169,-teːn,SG<3DU,suffix,Verb,SG<3DU,_
+170,-tt,_,suffix,Verb,_,_
+171,-tə,_,suffix,_,_,_
+172,-tət,_,suffix,_,_,_
+173,-tʲe,SG<3SG,suffix,Verb,_,_
+174,-tʲe,_,suffix,_,_,_
+175,-tʲeː,_,suffix,_,_,_
+176,-tʲeː,_,suffix,_,_,_
+177,-ujaɣ,_,suffix,_,_,_
+178,-ujaɣm,_,suffix,_,_,_
+179,-ut,VZER,suffix,Verb,_,_
+180,-ut,_,suffix,_,_,_
+181,-uw,SG<1PL,suffix,Noun,SG<1PL,_
+182,-uwə,_,suffix,_,_,_
+183,-uŋkʷe,INF,suffix,Infinitive,INF,_
+184,-w,1PL,suffix,Verb,1PL,_
+185,-we,PASS,suffix,Verb,PASS,_
+186,-weː,_,suffix,_,_,_
+187,-ŋŋ,_,suffix,_,_,_
+188,-əl,INST,suffix,Noun,INST,_
+189,-əln,_,suffix,_,_,_
+190,-ən,_,suffix,_,_,_
+191,-ən,SG<2PL,suffix,Noun,SG<2PL,"Variant ənən: Liimola, Matti (1963): Zur historischen Formenlehre des Wogulischen. I: Flexion der Nomina. Helsinki (MSFOu 127), 223."
+192,-əntaɣ,_,suffix,_,_,_
+193,-əntiɣ,REITNUM,suffix,Reiterative numerals,REITNUM,_
+194,-ənən,PL<2DU,suffix,Verb,PL<2DU,_
+195,-ənən,PL<2SG,suffix,Noun,PL<2SG,_
+196,-ənʲsʲ,_,suffix,_,_,_
+197,-əŋ,PROPR,suffix,Adjective,PROPR,_
+198,-əɣ,TRNS,suffix,Noun,TRNS,_
+199,-əɣ,3DU,suffix,Verb,_,_
+200,-əɣp,MOM,suffix,Verb,MOM,_
+201,-əɣt,_,suffix,_,_,_
+202,-ɣ,DU,suffix,Noun,DU,_
+203,-ɣamen,DU<1PL,suffix,Noun,DU<1PL,_
+204,-ɣen,DU<3DU,suffix,Noun,DU<3DU,_
+205,-ɣm,_,suffix,_,_,_
+206,-ɣum,_,suffix,_,_,_
+207,-ɣəm,_,suffix,_,_,_
+208,-ɣən,IMP<DU,suffix,Verb,_,_
+209,-ɣən,_,suffix,_,_,_
+210,=li,if,enclitic,Particle,ob,_
+211,=mos,continual,enclitic,Adverb,fortwährend,_
+212,=sup,part,enclitic,Substantive,Teil,_
+213,a,if,stem,Question particle,ob,_
+214,a,but,stem,Coordinating conjunction,aber,_
+215,a-xa-xa,hahaha (laugh),stem,Interjection,hahaha (Lachen),_
+216,ai,_,stem,_,_,_
+217,aj,drink,stem,Verb,trinken,_
+218,ajaŋ xum,_,phrase,_,_,_
+219,ajaːŋ xum,helper,phrase,Substantive,Gehilfe,_
+220,ajj,_,stem,_,_,_
+221,ajnat,escape,stem,Verb,entkommen,_
+222,ak,_,stem,_,_,_
+223,aki,uncle,stem,Substantive,Onkel,_
+224,akj,_,stem,_,_,_
+225,akw,_,stem,_,_,_
+226,akw,_,stem,_,_,_
+227,akw,_,stem,_,_,_
+228,akw ekwa,_,stem,_,_,_
+229,akw mat,_,phrase,_,_,_
+230,akw maːt,_,stem,_,_,_
+231,akw nakt,once,phrase,Adverb,einmal,_
+232,akwan,together,stem,Adverb,zusammen,_
+233,akwat,together,stem,Adverb,beisammen,_
+234,akwmat,at once,stem,Particle,auf einmal,_
+235,akwta,same,stem,Adjective,derselbe,_
+236,akwxurip,alike,stem,Adjective,gleich,_
+237,akʷ,one,stem,Cardinal numeral,ein,Balandin/Vakhrusheva 1958
+238,akʷ,_,stem,_,_,_
+239,akʷ ert,_,phrase,_,_,_
+240,akʷ eːrt,once,phrase,Adverb,einmal,Balandin/Vakhrusheva 1958
+241,akʷ jot,together,phrase,Adverb,zusammen,
+242,akʷ mat,_,phrase,_,_,_
+243,akʷ mat,something,phrase,Indefinite pronoun,irgendetwas,_
+244,akʷ mus,constantly,phrase,Adverb,fortwährend,_
+245,akʷ tuw,just there,phrase,Adverb,eben dorthin,_
+246,akʷa,_,stem,_,_,_
+247,akʷa,_,stem,_,_,_
+248,akʷaiɣ,_,stem,_,_,_
+249,akʷan,together,stem,Adverb,zusammen,Balandin/Vakhrusheva 1958
+250,akʷaəɣ,_,stem,_,_,_
+251,akʷaɣ,continually,stem,Adverb,fortwährend,_
+252,akʷe ekʷa,_,phrase,Proper Noun,_,_
+253,akʷen,_,stem,_,_,_
+254,akʷert,_,phrase,_,_,_
+255,akʷeːrt,_,phrase,_,_,_
+256,akʷj,_,stem,_,_,_
+257,akʷjot,together,stem,Adverb,zusammen,_
+258,akʷmatert,_,phrase,_,_,_
+259,akʷmateːrt,_,phrase,_,_,_
+260,akʷmateːrtn,once,phrase,Adverb,einmal,_
+261,akʷmeːkʷ,_,phrase,_,_,_
+262,akʷta,same,phrase,Adverb,derselbe,_
+263,akʷtox,just as,phrase,Adverb,ebenso,_
+264,al,kill,stem,Verb,töten,_
+265,ala,_,stem,_,_,_
+266,ala,_,stem,_,_,_
+267,ala,close,stem,Adjective,nah,_
+268,alamut,prey,phrase,Substantive,Beute,_
+269,alaɣ,with big power,stem,Adverb,mit großer Kraft,_
+270,alisʲl,_,stem,_,_,_
+271,alm,carry,stem,Verb,tragen,_
+272,almaj,raise,stem,Verb,heben,_
+273,alpi,body,stem,Substantive,Körper,_
+274,alpəl,in the morning,stem,Adverb,früh,_
+275,alsl,_,stem,_,_,_
+276,alsʲl,hunt,stem,Verb,jagen,_
+277,alɣal,up the river,stem,Adverb,flußaufwärts,_
+278,alɣalʲ,_,stem,_,_,_
+279,am,1SG,stem,Personal pronoun,1SG,Balandin/Vakhrusheva 1958
+280,aman,whether,stem,Question particle,ob,_
+281,amanər,who,stem,Interrogative pronoun,Wer,_
+282,amkem,_,stem,_,_,_
+283,amki,1SG,stem,Emphatic personal pronoun,1SG,_
+284,amkkem,1SG,stem,Solitary personal pronouns,1SG,_
+285,amp,_,stem,_,_,_
+286,amttem,1SG,stem,Emphatic personal pronoun,1SG,_
+287,amtʲi,_,stem,_,_,_
+288,an,_,stem,_,_,_
+289,anglʲijskʲij,[Ru. English],stem,Adjective,[Ru. englisch],_
+290,aniɣl,kiss,stem,Verb,küssen,_
+291,anum,1SG.OBL,stem,Personal pronoun,1SG.OBL,_
+292,anumna,1SG.DLAT,stem,Personal pronoun,1SG.DLAT,_
+293,anʲ,now,stem,Adverb,jetzt,Balandin/Vakhrusheva 1958
+294,anʲ,that,stem,Demonstrative,jener,_
+295,anʲa,heap,stem,Substantive,Haufen,_
+296,anʲamow,Anʲamow,stem,Proper Noun,Anʲamow,_
+297,anʲiɣl,_,stem,_,_,_
+298,anʲiɣlaxt,kiss each other,stem,Verb,einandner küssen,_
+299,anʲmaləŋ,now,stem,Particle,"indessen, nun",_
+300,anʲmuːnt,recently,phrase,Particle,unlängst,_
+301,apiɣ,_,stem,_,_,_
+302,apsʲi,_,stem,_,_,_
+303,apəɣ,grandson,stem,Substantive,Enkel,_
+304,apɣ,_,stem,_,_,_
+305,arasʲ,hearth,stem,Substantive,Feuerherd,_
+306,ariɣt,remain,stem,Verb,übrigbleiben,_
+307,arpi,fish weir,stem,Substantive,Fischwehr,_
+308,artm,manage,stem,Verb,gelingen,_
+309,arəɣt,stay,stem,Verb,bleiben,_
+310,arɣen,_,stem,_,_,_
+311,arɣen,copper,stem,Substantive,Kupfer,_
+312,arɣeːn,too much,stem,Particle,zuviel,_
+313,arɣən,_,stem,_,_,_
+314,as,hole,stem,Substantive,Loch,_
+315,ast,_,stem,_,_,_
+316,asʲ,_,stem,_,_,_
+317,at,collect,stem,Verb,sammeln,_
+318,at,smell,stem,Substantive,Geruch,_
+319,at,five,stem,Cardinal numeral,fünf,_
+320,at,NEG,stem,Negation Particle,NEG,Balandin/Vakhrusheva 1958
+321,at pəl,not even,phrase,Negation Particle,nun nicht,_
+322,atim,_,stem,_,_,_
+323,atʲi,_,stem,_,_,_
+324,atʲi,NEG,stem,Negation Particle,NEG,_
+325,atʲim,NEG.EXIST,stem,Negative existential marker,NEG.EXIST,_
+326,atʲiŋk,otherwise,stem,Adverb,anderswie,_
+327,aul,_,stem,_,_,_
+328,aw,_,stem,_,_,_
+329,awi,_,stem,_,_,_
+330,axt toul,crop of a bird,phrase,Substantive,Kropf beim Vogel,_
+331,axt toul xurəɣ,crop,phrase,Substantive,Kropf,_
+332,aŋk,mother,stem,Substantive,Mutter,_
+333,aŋkʷ,_,stem,_,_,_
+334,aŋkʷal,pole,stem,Substantive,Pfosten,Balandin/Vakhrusheva 1958
+335,aŋkʷatal,look,stem,Verb,schauen,_
+336,aŋx,take off,stem,Verb,ausziechen,_
+337,aɣa,ouch,stem,Interjection,au,_
+338,aɣaɣi,_,stem,_,_,_
+339,aɣi,_,stem,_,_,_
+340,aɣt,believe,stem,Verb,glauben,_
+341,aɣə,_,stem,_,_,_
+342,aː,hey,stem,Interjection,he,_
+343,aːjiŋ xum piɣ,squire,phrase,Substantive,Knappe,_
+344,aːkʷ,aunt,stem,Substantive,Tante,_
+345,aːkʷeːkʷ,_,stem,_,_,_
+346,aːkʷeːkʷa,grandmother,phrase,Proper Noun,Großmutter,_
+347,aːkʷjeːkʷ,_,stem,_,_,_
+348,aːkʷmeːkʷ,_,stem,_,_,_
+349,aːla,roof,stem,Substantive,Dach,_
+350,aːla,hardly,stem,Adverb,mit Mühe und Not,_
+351,aːlim,manage,stem,Verb,schaffen,_
+352,aːlma,grasp,stem,Verb,nehmen,_
+353,aːlmaj,_,stem,_,_,_
+354,aːlmt,carry,stem,Verb,schleppen,_
+355,aːləmpaːl,other side,stem,Adverb,die andere Seite,_
+356,aːmart,scoop out,stem,Verb,schöpfen,_
+357,aːmp,dog,stem,Substantive,Hund,_
+358,aːni,cup,stem,Substantive,Schüssel,_
+359,aːnum,1SG.OBL,stem,Personal pronoun,1SG.OBL,_
+360,aːnəmn,_,stem,_,_,_
+361,aːnʲ,_,stem,_,_,_
+362,aːpa,hanging cradle,stem,Substantive,hängende Wiege,_
+363,aːpiɣ,_,stem,_,_,_
+364,aːpsʲi,younger brother,stem,Substantive,jüngerer Bruder,_
+365,aːpər,agility,stem,Substantive,Gewandtheit,_
+366,aːrt,manner,stem,Substantive,Art und Weise,_
+367,aːrtal,attempt,stem,Verb,probieren,_
+368,aːs,Ob,stem,Proper Noun,Ob,_
+369,aːs jaːs,river channel of the Ob,phrase,Substantive,Fahrrinne des Ob,_
+370,aːs waːta,shores of the Ob,phrase,Substantive,Ob-Ufer,_
+371,aːst,get ready,stem,Verb,fertig werden,_
+372,aːsʲ,father,stem,Substantive,Vater,_
+373,aːt,hair,stem,Substantive,Haar,_
+374,aːti,_,stem,_,_,_
+375,aːtʲim,NEG.EXIST,stem,Negation Particle,NEG.EXIST,_
+376,aːwi,door,stem,Substantive,Тür,_
+377,aːwi xaːp,doorstep,phrase,Substantive,Türschwelle,_
+378,aːxt,gap,stem,Substantive,Lücke,_
+379,aːxtas,_,stem,_,_,_
+380,aːxwtas,stone,stem,Substantive,Stein,_
+381,aːxʷtas,stone,stem,Substantive,Stein,_
+382,aːŋkrip,wooden wall,stem,Substantive,Bretterwand,_
+383,aːŋkʷal,trunk,stem,Substantive,Stamm,_
+384,aːŋkʷat,take a look,stem,Verb,blicken,_
+385,aːŋxa,snow grouse,stem,Substantive,Schneehuhn,_
+386,aːɣi,daughter,stem,Substantive,Tochter,Balandin/Vakhrusheva 1958
+387,aːɣj,_,stem,_,_,_
+388,dʲemokratʲii,[Ru. democracy],stem,Substantive,[Ru. Demokratie],_
+389,dʲeputat,[Ru. deputy],stem,Substantive,[Ru. Deputant],_
+390,ej,_,stem,_,_,_
+391,ekwa,_,stem,_,_,_
+392,ekʷa,_,stem,_,_,_
+393,ekʷa ojka,husband and wife,stem,Substantive,Mann und Frau,
+394,ekʷa piɣrisʲ,_,phrase,_,_,_
+395,ekʷa pərisʲ,_,phrase,_,_,_
+396,el,_,stem,_,_,_
+397,ela min,continue,phrase,Verb,weiter gehen,_
+398,ela ujməɣt,swim,phrase,Verb,schwimmen,_
+399,ela=,further,proclitic,Preverb,weiter,_
+400,elanuw,further,stem,Adverb,weiter,_
+401,elanuːw,further,stem,Adverb,weiter,_
+402,eli xon,far away,phrase,Adjective,_,_
+403,elipal,_,stem,_,_,_
+404,elipalt,_,phrase,_,_,_
+405,elit,ahead,stem,Adverb,vorwärts,_
+406,elmxolas,_,stem,_,_,_
+407,eln,_,stem,_,_,_
+408,elnuw,_,stem,_,_,_
+409,eləmxolas,_,stem,_,_,_
+410,elən,_,stem,_,_,_
+411,elən-kol,_,stem,_,_,_
+412,elʲektronʲika,[Ru. electronics],stem,Substantive,[Ru. Elektronik],_
+413,entap,_,stem,_,_,_
+414,entxat,_,stem,_,_,_
+415,er,_,stem,_,_,_
+416,eriŋ,_,stem,_,_,_
+417,ertam,maybe,stem,Particle,vielleicht,_
+418,erupt,respect,stem,Verb,respektieren,Frau Skribnik
+419,erəŋ,maybe,stem,Adverb,vielleicht,_
+420,erəŋəsʲ,_,stem,_,_,_
+421,erɣ,song,stem,Substantive,Lied,_
+422,exe,ah,stem,Interjection,ach,_
+423,eŋ,chin,stem,Substantive,Kinn,_
+424,eːkwa,_,stem,_,_,_
+425,eːkʷ aːsʲ,(married) couple,phrase,Substantive,Ehepaar,_
+426,eːkʷa,married woman,stem,Substantive,verheiratete Frau,
+427,eːkʷa piɣrisʲ,Eːkʷa Piɣrisʲ,phrase,Proper Noun,Eːkʷa Piɣrisʲ,_
+428,eːkʷa piːrisʲ,_,phrase,_,_,_
+429,eːl suns,look ahead,phrase,Verb,nach vorne schauen,_
+430,eːl taːrmat,jump forward,phrase,Verb,vorspringen,_
+431,eːl uːrmiɣt,hold,phrase,Verb,halten,_
+432,eːl=,forwards,proclitic,Preverb,weiter,_
+433,eːla suns,_,phrase,_,_,_
+434,eːla=,further,proclitic,Preverb,weiter,_
+435,eːlalʲ,further,stem,Adverb,weiter,_
+436,eːlipal,_,stem,_,_,_
+437,eːlipaːl,in front of,phrase,Postposition,vor,_
+438,eːlipaːln,to the front of,phrase,Postposition,vor,_
+439,eːlipaːlt,in front of,phrase,Postposition,vor,_
+440,eːlmxolas,_,stem,_,_,_
+441,eːlmxoːlas,_,stem,_,_,_
+442,eːlmxoːlase,_,stem,_,_,_
+443,eːlmxoːləs,_,stem,_,_,_
+444,eːln,_,stem,_,_,_
+445,eːləmxolas,human,phrase,Substantive,Mensch,_
+446,eːlən,ahead,stem,Adverb,weiter,_
+447,eːnt,gird,stem,Verb,gürten,_
+448,eːntap,belt,stem,Substantive,Gürtel,_
+449,eːntapaxt,belt oneself,stem,Verb,sich umgürten,_
+450,eːntxat,gird oneself,stem,Verb,sich gürten,_
+451,eːr,love,stem,Verb,lieben,_
+452,eːrmiɣl,to be needed,stem,Verb,brauchen,_
+453,eːrne,useful,stem,Adjective,nützlich,_
+454,eːrt,when,stem,Adverb,wenn,_
+455,eːrəŋ,_,stem,_,_,_
+456,eːrəŋəsʲ,kind,stem,Adjective,lieb,_
+457,eːt,night,stem,Substantive,Nacht,_
+458,eːti,_,stem,_,_,_
+459,eːti palaiɣ,in the evening,phrase,Adverb,gegen Abend,_
+460,eːtpos,moon,stem,Substantive,Mond,_
+461,eːŋkaj,servant,stem,Substantive,Dienerin,_
+462,fomisʲ,Fomisʲ,stem,Proper Noun,Fomisʲ,_
+463,fʲinno-ugorskʲij,[Ru. Finno-Ugric],stem,Adjective,[Ru. finnougrisch],_
+464,fʲinnougrovʲedʲenʲie,[Ru. Finnougristics],phrase,Substantive,[Ru. Finnougristik],_
+465,fʲinskʲij,[Ru. Finnish],stem,Adjective,[Ru. finnisch],_
+466,gerzon,Gerson,stem,Proper Noun,Gerson,_
+467,gosudarstvʲennɨj,[Ru. state],stem,Adjective,[Ru. staatlich],_
+468,gʲermanʲija,[Ru. Germany],stem,Proper Noun,[Ru. Deutschland],_
+469,hon,_,stem,_,_,_
+470,hum,_,stem,_,_,_
+471,i,also,stem,Particle,auch,_
+472,ilʲpəlʲ,recently,stem,Adverb,neulich,_
+473,is,_,stem,_,_,_
+474,isiɣl,get warm,stem,Verb,warm werden,_
+475,isnas,window,stem,Substantive,Fenster,_
+476,issəlt,boil,stem,Verb,aufkochen,_
+477,isum,hot,stem,Adjective,heiß,_
+478,itʲi,_,stem,Adverb,_,_
+479,itʲim,dusk,stem,Verb,dämmern,_
+480,itʲiml,_,stem,_,_,_
+481,iŋ,still,stem,Adverb,noch,_
+482,iŋət,not yet,stem,Negation Particle,noch nicht,_
+483,iːtʲi,at night,stem,Adjective,abends,_
+484,ja,_,stem,_,_,_
+485,ja,well,stem,Interjection,nun,_
+486,ja,and,stem,Coordinating conjunction,und,_
+487,ja ti,well,stem,Particle,so,_
+488,ja tolx,head of a river,phrase,Substantive,Quellengebiet,_
+489,jaj,_,stem,_,_,_
+490,jakt,cut,stem,Verb,schneiden,_
+491,jaktap,slit,stem,Verb,schneiden,_
+492,jaktəl,rapids,stem,Substantive,Stromschnelle,_
+493,jal,go around,stem,Verb,herumgehen,Balandin-Vakhusheva 151;  Munkácsi-Kálmán 143; Kálmán 1963 (ChrVog) 79
+494,jal,_,stem,_,_,_
+495,jalan xuj,_,phrase,_,_,_
+496,jalanʲ,forest spirit,stem,Substantive,ein im Wald spukendes Wesen,_
+497,jalas,go around,stem,Verb,herumgehen,_
+498,jalpəŋ,sacred,stem,Adjective,heilig,"Munkácsi/Kálmán, 144b; "
+499,jaltapt,revive,stem,Verb,wiederbeleben,_
+500,janas,separate,stem,Adjective,abgesondert,_
+501,janim,_,stem,_,_,_
+502,janit,_,stem,_,_,_
+503,janiteːtəl,in its whole extent,stem,Adjective,in seiner ganzen Größe,_
+504,janitl,extend,stem,Verb,vergrößern,
+505,janitəl,along,stem,Postposition,entlang,"Balandin/Vahrusheva, 151b"
+506,janiɣ,big,stem,Adjective,groß,_
+507,janiɣm,grow,stem,Verb,wachsen,_
+508,janiɣpoːlʲ,april,phrase,Proper Noun,April,_
+509,janmalt,bring up,stem,Verb,erziehen,Balandin-Vakhusheva 152;  Munkácsi-Kálmán 147; Kálmán 1963 (ChrVog) 79; 
+510,janǝɣ,_,stem,_,_,_
+511,janət,_,stem,_,_,_
+512,janəɣ,_,stem,_,_,_
+513,jat,middle,stem,Substantive,Mitte,_
+514,jatel,_,stem,_,_,_
+515,jatil,_,stem,_,_,_
+516,jaxtəl,_,stem,_,_,_
+517,jaŋk,_,stem,_,_,_
+518,jaŋkeːt,gnarl,stem,Substantive,Knorren,_
+519,jaɣ,father,stem,Substantive,Vater,
+520,jaɣaj,_,stem,_,_,_
+521,jaɣaji,_,stem,_,_,_
+522,jaɣaɣ,_,stem,_,_,_
+523,jaɣaɣi,_,stem,_,_,_
+524,jaɣaːɣ,_,stem,_,_,_
+525,jaɣaːɣi,sister,stem,Substantive,Schwester,M-K 142 a
+526,jaɣpiɣ,brother,stem,Substantive,Bruder,_
+527,jaː,river,stem,Substantive,Fluss,Balandin-Vakhusheva 150;  Munkácsi-Kálmán 140; Kálmán 1963 (ChrVog) 79
+528,jaːl,_,stem,_,_,_
+529,jaːnit,size,stem,Substantive,Größe,Balandin-Vakhusheva 151;  Munkácsi-Kálmán 147; Kálmán 1963 (ChrVog) 79
+530,jaːniɣ,big,stem,Adjective,groß,_
+531,jaːntaw,_,stem,_,_,_
+532,jaːntew,bowstring,stem,Substantive,Bogensehne,_
+533,jaːs,path,stem,Substantive,Pfad,_
+534,jaːta,well,stem,Particle,wohlan,_
+535,jaːtil,sweet,stem,Adjective,lieb,
+536,jaːŋk,ice,stem,Substantive,Eis,_
+537,jaːɣpiːɣ,_,stem,_,_,_
+538,jelʲena,Elena,stem,Proper Noun,Elena,_
+539,jemt,_,stem,_,_,_
+540,jemtal,_,stem,_,_,_
+541,jeretəl,fast,stem,Adverb,schnell,_
+542,jereːtəl,_,stem,_,_,_
+543,jevropʲejskʲij,[Ru. European],stem,Adjective,[Ru. europäisch],_
+544,jeɣ,_,stem,_,_,_
+545,jeɣpiɣ,_,stem,_,_,_
+546,jeɣpɣ,_,stem,_,_,_
+547,jeːman,large kettle,stem,Substantive,großer Kessel,_
+548,jeːmt,become,stem,Verb,werden,Balandin-Vakhusheva 27;  Munkácsi-Kálmán 154; Kálmán 1963 (ChrVog) 79
+549,jeːrxat,swear,stem,Verb,schimpfen,_
+550,jilʲpi,new,stem,Adjective,neu,_
+551,jirxat,sacrify,stem,Verb,opfern,_
+552,jis,_,stem,_,_,_
+553,jis,old,stem,Adjective,alt,_
+554,jis,age,stem,Substantive,Zeitalter,_
+555,jisum,_,stem,_,_,_
+556,jiw,come,stem,Verb,kommen,_
+557,jiw,tree,stem,Substantive,Baum,_
+558,jiːw,wood,stem,Substantive,Holz,_
+559,jiːw sup,piece of wood,phrase,Substantive,Holzstück,_
+560,jiːwtʲilʲ,Ivdel,stem,Proper Noun,Ivdel,_
+561,joht,_,stem,_,_,_
+562,jol lonʲxat,slide,phrase,Verb,rutschen,_
+563,jol lʲulʲ,stand below sth ,phrase,Verb,unter etw. stellen,_
+564,jol lʲuːlʲ,stop,phrase,Verb,stehenbleiben,_
+565,jol neːɣsal,tie up,phrase,Verb,anbinden,_
+566,jol ojilmat,fall asleep,phrase,Verb,einschlafen,_
+567,jol pat,fall,stem,Verb,herabfallen,_
+568,jol patt,let fall,phrase,Verb,fallen lassen,_
+569,jol pojt,_,phrase,_,_,_
+570,jol raɣat,fall,phrase,Verb,fallen,_
+571,jol rotm,calm down,phrase,Verb,ruhig werden,_
+572,jol saːɣr,chop down,phrase,Verb,fällen,_
+573,jol sʲalt,dive down,phrase,Verb,hinabtauchen,_
+574,jol sʲelt,throw down,phrase,Verb,herunter werfen,_
+575,jol sʲurat,flow,phrase,Verb,strömen,_
+576,jol uːnt,sit down,phrase,Verb,sich niedersetzen,_
+577,jol waːɣl,descend,phrase,Verb,herabsteigen,_
+578,jol xuj,lie down,phrase,Verb,hinlegen,_
+579,jol xujiɣp,_,stem,_,_,_
+580,jol xujiɣpaːl,_,phrase,_,_,_
+581,jol xujəɣp,lie down,stem,Verb,sich niederlegen,_
+582,jol xujəɣpaːl,lie down,phrase,Verb,sich hinlegen,_
+583,jol=,down,proclitic,Preverb,herab,_
+584,jola pojt,_,stem,_,_,_
+585,jola poniɣt,press down,phrase,Verb,nieder drücken,_
+586,jola poriɣm,jump off,phrase,Verb,herunter hüpfen,_
+587,jola poːjt,stop,phrase,Verb,aufhören,
+588,jola uːnt,_,phrase,_,_,_
+589,jola=,_,proclitic,_,_,_
+590,jolal,_,stem,_,_,_
+591,jolal ji,come down,phrase,Verb,fallen,_
+592,jolalʲ,downwards,stem,Adverb,hinunter,_
+593,jolalʲ sulʲɣ,trickle,phrase,Verb,rieseln,_
+594,jolalʲ sulʲɣalt,scatter from above,phrase,Verb,herab streuen,_
+595,jolalʲ taːrtal,let down,phrase,Verb,hinunterlassen,_
+596,jolalʲ xuntl,look downwards,phrase,Verb,hinunterschauen,_
+597,jolalʲ=,downwards,proclitic,Preverb,hinunter,_
+598,joli,under,stem,Adjective,untere,_
+599,jolimt,defeat,stem,Verb,besiegen,_
+600,jolt,decree,stem,Verb,verordnen,_
+601,jolən,below,stem,Adverb,unten,_
+602,jom,_,stem,_,_,_
+603,jom,_,stem,_,_,_
+604,jomant,_,stem,_,_,_
+605,jomas,good,stem,Adjective,gut,Balandin-Vakhusheva 30;  Munkácsi-Kálmán 170; Kálmán 1963 (ChrVog) 80
+606,jomas uːləm,good-bye,phrase,Interjection,auf Wiedersehen,_
+607,jomasakʷe,_,stem,_,_,_
+608,jomasʲ,_,stem,_,_,_
+609,jomasʲakʷ,thoroughly,stem,Adverb,gründlich,M&K 171a
+610,jomiɣt,_,stem,_,_,_
+611,jomsʲakʷ,_,stem,_,_,_
+612,jonɣ,play,stem,Verb,spielen,_
+613,jonɣas,amuse oneself,stem,Verb,sich amüsieren,B/V 30b
+614,jor,_,stem,_,_,_
+615,josa,ski,stem,Substantive,Ski,_
+616,jot,with,stem,Postposition,mit,Balandin-Vakhusheva 31;  Munkácsi-Kálmán 179; Kálmán 1963 (ChrVog) 80
+617,jot min,go along,phrase,Verb,mitgehen,_
+618,jot tot,carry with oneself,phrase,Verb,mit sich mitnehmen,_
+619,jot=,with ,proclitic,Preverb,mit,Balandin-Vakhusheva 31;  Munkácsi-Kálmán 179; Kálmán 1963 (ChrVog) 80
+620,jotəl,afterwards,stem,Adjective,danach,_
+621,jowt,bow,stem,Substantive,Bogen,M&K 180a
+622,joxt,arrive,stem,Verb,ankommen,Balandin-Vakhusheva 31;  Munkácsi-Kálmán 164; Kálmán 1963 (ChrVog) 79
+623,joxtiɣp,arrive,stem,Verb,ankommen,_
+624,joxtl,_,stem,_,_,_
+625,joxtəɣp,_,stem,_,_,_
+626,joxul,common dace,stem,Substantive,Hasel (Leuciscus leuciscus),_
+627,joŋ,_,stem,_,_,_
+628,joŋx,_,stem,_,_,_
+629,joŋxiɣp,turn towards,stem,Verb,sich entgegen wenden,_
+630,joːl patt,_,phrase,_,_,_
+631,joːm,go on foot,stem,Verb,gehen,Balandin-Vakhusheva 30;  Munkácsi-Kálmán 171; Kálmán 1963 (ChrVog) 80
+632,joːmant,go,stem,Verb,gehen,B/V 30a
+633,joːmas,step,stem,Verb,treten,_
+634,joːmiɣt,walk around,stem,Verb,spazieren,ESkr
+635,joːmliɣt,take a step,stem,Verb,einen Schritt tun,_
+636,joːmliɣtaːl,pace,stem,Verb,langsam schreiten,_
+637,joːmtaxt,set off,stem,Verb,aufbrechen,_
+638,joːr,strenght,stem,Substantive,Kraft,_
+639,joːrn kol,tent,phrase,Substantive,Zelt,_
+640,joːrən,Samoyede,stem,Proper Noun,Samojede,_
+641,joːsuːj,golden eagle,stem,Substantive,Steinadler,M-K 183a
+642,joːwt,_,stem,_,_,_
+643,joːxt,_,stem,_,_,_
+644,joːŋx,turn round,stem,Verb,sich umdrehen,Balandin-Vakhusheva 30;  Munkácsi-Kálmán 172; Kálmán 1963 (ChrVog) 80
+645,jugra maː,Yugria,phrase,Proper Noun,Jugorien,_
+646,jugu,[Ru. State University of Yugra (YuGU)],stem,Proper Noun,[Ru. Staatsuniversität Jugra (JuGU)],_
+647,juipalt,_,stem,Postposition,_,_
+648,juji owlt,_,stem,_,_,_
+649,juji paːlt,after,phrase,Postposition,danach,_
+650,jujil,_,stem,_,_,_
+651,jujioːwəlt,finally,phrase,Adverb,letztlich,_
+652,jujipaːlt,_,phrase,_,_,_
+653,jujəl,back,stem,Adverb,hinten,_
+654,jul al,kill,phrase,Verb,töten,_
+655,jul=,_,proclitic,_,_,_
+656,jun,at home,stem,Adverb,zu Hause,Balandin-Vakhusheva 150;  Munkácsi-Kálmán 182; Kálmán 1963 (ChrVog) 80
+657,junesko,[En. UNESCO],stem,Proper Noun,[En. UNESCO],_
+658,junit,hit,stem,Verb,schlagen,M-K 182 b
+659,juniɣt,_,stem,_,_,_
+660,juntup,_,stem,_,_,_
+661,junəɣt,beat,stem,Verb,schlagen,_
+662,junɣt,_,stem,_,_,_
+663,jursʲ,team up,stem,Verb,sich zusammentun,_
+664,jurt,friend,stem,Substantive,Freund,M-K 185a
+665,juw,_,stem,_,_,_
+666,juw,_,stem,_,_,_
+667,juw aj,drink up,phrase,Verb,austrinken,_
+668,juw ajnat,escape,phrase,Verb,entkommen,_
+669,juw joxt,come back,phrase,Verb,zurück kommen,"Munkácsi-Kálmán, 180b;"
+670,juw joŋ,to turn,phrase,Verb,sich drehen,_
+671,juw joŋxiɣp,turn towards,phrase,Verb,sich entgegenwenden,_
+672,juw keːt,send,phrase,Verb,senden,_
+673,juw min,go inside,phrase,Verb,hineingehen,_
+674,juw miːn,go inside,phrase,Verb,hineingehen,_
+675,juw narumt,push away,phrase,Verb,wegschieben,_
+676,juw nejəl,appear,phrase,Verb,erscheinen,_
+677,juw oj,escape,phrase,Verb,entfliehen,_
+678,juw poːs,drive back,phrase,Verb,zurücklenken,_
+679,juw raɣ,fall,phrase,Verb,fallen,_
+680,juw raɣat,get,phrase,Verb,hinkommen,_
+681,juw sʲalt,enter the house,phrase,Verb,ins Haus eintreten,"Munkácsi-Kálmán, 180b"
+682,juw sʲaltap,_,phrase,_,_,_
+683,juw sʲaltep,enter,phrase,Verb,eintreten,_
+684,juw taːrat,let,phrase,Verb,lassen,_
+685,juw tot,bring home,phrase,Verb,nachhause bringen,_
+686,juw tuːl,bring into,phrase,Verb,hinein bringen,_
+687,juw wow,call,phrase,Verb,rufen,_
+688,juw xart,drag inside,phrase,Verb,hineinziehen,_
+689,juw xassumtaxt,leap,phrase,Verb,hervorspringen,_
+690,juw=,back,proclitic,Preverb,zurück,Balandin-Vakhusheva 148;  Munkácsi-Kálmán 180; Kálmán 1963 (ChrVog) 80
+691,juwle,home,stem,Adverb,nach Hause,_
+692,juwlʲe,_,stem,_,_,_
+693,juː min,go inside,phrase,Verb,hinein gehen,_
+694,juː poːs,drive back,phrase,Verb,zurück lenken,_
+695,juː=,_,proclitic,_,_,_
+696,juːntəp,needle,stem,Substantive,Nadel,_
+697,kafʲedra,[Ru. chair],stem,Substantive,[Ru. Lehrstuhl],_
+698,kaj,speak shaman spell,stem,Verb,Schamanenformel sprechen,M-K 187 b
+699,kakre,torso,stem,Substantive,Oberkörper,_
+700,kamka,fish weir,stem,Substantive,Fischreuse,_
+701,kan,place,stem,Substantive,Platz,_
+702,karaj,sturgeon,stem,Substantive,"Stör, Sterlet",_
+703,karr,woodpecker,stem,Substantive,Specht,_
+704,karsit,height,stem,Substantive,Höhe,K
+705,karəs,high,stem,Adjective,hoch,M-K 194a
+706,kasaj,knife,stem,Substantive,Messer,M-K 196b
+707,kasal,_,stem,_,_,_
+708,kassiɣ,in vain,stem,Adverb,umsonst,_
+709,kastəl,to,stem,Postposition,bis,
+710,kasəŋ,_,stem,_,_,_
+711,kat,_,stem,_,_,_
+712,katn-patt,_,phrase,_,_,_
+713,kaːral,drill,stem,Verb,bohren,B/V 34a; M/K 193b
+714,kaːrta,yard,stem,Substantive,Hof,M-K 196 a
+715,kaːsal,catch sight,stem,Verb,erblicken,_
+716,kaːsna,tax,stem,Substantive,Steuer,_
+717,kaːsnakol,prison,stem,Substantive,Gefängnis,_
+718,kaːsəŋ,every,stem,Determiner,jeder,_
+719,kaːt,hand,stem,Substantive,Hand,Munk
+720,kaːt xuːxnʲi,crook of the arm,phrase,Substantive,Armbeuge,_
+721,kaːtpos,signature,stem,Substantive,Unterschrift,_
+722,kaːtän pat,_,phrase,Verb,in die Hand bekommen,_
+723,ke,if,particle,Particle,falls,Balandin-Vakhusheva 36;  Munkácsi-Kálmán 203; Kálmán 1963 (ChrVog) 81
+724,keliɣ,_,stem,_,_,_
+725,kelp,_,stem,_,_,_
+726,kelɣ,swamp,stem,Substantive,Sumpf,_
+727,kem,manner,stem,Particle,Art und Weise,_
+728,ker,iron,stem,Substantive,Eisen,_
+729,keras,"high ground, cliff",stem,Substantive,"steile Stelle, Felsen",_
+730,keraskoləŋʲa,Keraskoləŋʲa,stem,Proper Noun,Keraskoləŋʲa,_
+731,ket,_,stem,_,_,_
+732,ketiɣl,delegate,stem,Verb,delegieren,_
+733,keː,_,particle,_,_,_
+734,keːliɣ,_,stem,_,_,_
+735,keːlp,blood,stem,Substantive,Blut,_
+736,keːlp sam,drop of blood,phrase,Substantive,Bluttropfen,_
+737,keːm,energy,stem,Substantive,Kraft,_
+738,keːm,_,stem,_,_,_
+739,keːnt,cap,stem,Substantive,Mütze,_
+740,keːr,iron,stem,Substantive,Eisen,_
+741,keːr,put to work,stem,Verb,einspannen (zu arbeiten),_
+742,keːrkʷaːliɣ,chain,stem,Substantive,Kette,_
+743,keːrtxat,_,stem,_,_,_
+744,keːrxat,harness,stem,Verb,einspannen,_
+745,keːt,send,stem,Verb,schicken,
+746,kim,breeding display,stem,Substantive,Balz,_
+747,kins,search,stem,Verb,suchen,Munkácsi-Kálmán 213; Kálmán 1963 (ChrVog) 81
+748,kis,bow,stem,Substantive,Bogen,_
+749,kismaj,_,stem,_,_,_
+750,kisxat,search around,stem,Verb,herumsuchen,"B&V 38a, M&K 213b"
+751,kit,two,stem,Cardinal numeral,zwei,_
+752,kitit,second,stem,Ordinal numeral,zweiter,_
+753,kitiɣl,ask,stem,Verb,fragen,_
+754,kitiɣlaxt,_,stem,_,_,_
+755,kitiɣlaːw,_,stem,_,_,_
+756,kitt,_,stem,_,_,_
+757,kittiɣ,_,stem,_,_,_
+758,kittəɣ,apart,stem,Adverb,entzwei,M-K 216a
+759,kitəɣl,_,stem,_,_,_
+760,kiwern,into,stem,Postposition,hinein,_
+761,kiwerna,into,stem,Postposition,hinein,_
+762,kiwr,_,stem,Substantive,_,_
+763,kiwər,_,stem,_,_,_
+764,kiwərn,_,stem,Postposition,_,_
+765,kiwərna,_,stem,_,_,_
+766,kiwərt,in,stem,Postposition,in,_
+767,kiːwər,inner part,stem,Substantive,Inneres,_
+768,kiːwərn,_,stem,_,_,_
+769,kiːwərt,_,stem,_,_,_
+770,klumpp,Klumpp,stem,Proper Noun,Klumpp,_
+771,kobzʲev,Kobzʲev,stem,Proper Noun,Kobzʲev,_
+772,koj,trace ,stem,Verb,folgen,_
+773,kojmənt,pursue,stem,Verb,verfolgen,_
+774,kol,house,stem,Substantive,Haus,Balandin-Vakhusheva 38;  Munkácsi-Kálmán 234; Kálmán 1963 (ChrVog) 81
+775,kol ala,ceiling,phrase,Substantive,Decke,_
+776,kol kan,floor,phrase,Substantive,Fußboden,_
+777,kol laːkʷ,timberwork,phrase,Substantive,Grundbalken des Hauses,_
+778,kolkan,floor,stem,Substantive,Diele,_
+779,kolnak,room,stem,Substantive,Zimmer,_
+780,kom,moment,stem,Substantive,Augenblick,_
+781,komisʲːija,[Ru. commission],stem,Substantive,[Ru. Kommission],_
+782,kon,outside,stem,Adverb,draußen,Balandin-Vakhusheva 39; Munkácsi-Kálmán 237; Kálmán 1963 (ChrVog) 81
+783,kon kʷal,_,stem,_,_,_
+784,kon kʷall,_,stem,_,_,_
+785,kon kʷalt,take out,phrase,Verb,hinausbringen,_
+786,kon kʷaːl,go out,stem,Verb,hinausgehen,_
+787,kon kʷaːlap,go out,phrase,Verb,hinausgehen,_
+788,kon leːwat,pull out,phrase,Verb,hervor ziehen,_
+789,kon neɣ,tie,phrase,Verb,binden,_
+790,kon neːɣlap,come out,phrase,Verb,herauskommen,_
+791,kon pat,fall out,phrase,Verb,herausfallen,_
+792,kon poriɣm,jump out,phrase,Verb,heraus springen,_
+793,kon raɣat,fall out,phrase,Verb,heraus fallen,_
+794,kon xajt,rush out,phrase,Verb,heraus rennen,_
+795,kon=,out,proclitic,Preverb,heraus; hinaus,Balandin-Vakhusheva 39; Munkácsi-Kálmán 237; Kálmán 1963 (ChrVog) 81
+796,kona kʷal,_,phrase,_,_,_
+797,kona kʷaːl,go out,phrase,Verb,hinausgehen,_
+798,kona neːɣlap,appear,phrase,Verb,auftauchen,_
+799,kona=,out,proclitic,Preverb,hinaus,_
+800,konalʲ min,go out,phrase,Verb,hinausgehen,_
+801,konalʲ patiɣl,fall out,phrase,Verb,fallen,_
+802,konalʲ roŋx,shout,phrase,Verb,schreien,_
+803,konalʲ=,out,proclitic,Preverb,heraus,B&V 40a
+804,konipal,besides,phrase,Postposition,außer,_
+805,konn,_,stem,_,_,_
+806,konroːŋxuwl,_,stem,Verb,_,_
+807,konsiɣt,_,stem,_,_,_
+808,konsiɣtaxt,claw,stem,Verb,ankrallen,_
+809,konstantʲinovna,Konstantinova,stem,Proper Noun,Konstantinova,_
+810,konsəɣt,grab,stem,Verb,ankrallen sich,_
+811,konəl sʲalt,enter from outside,phrase,Verb,von draußen eintreten,_
+812,konəl=,from outside,proclitic,Preverb,von außen,_
+813,kopnit,easy thing,stem,Substantive,leichte Sache,_
+814,kos,although,stem,Coordinating conjunction,obwohl,Balandin-Vakhusheva 40;  Munkácsi-Kálmán 196; Kálmán 1963 (ChrVog) 81
+815,kosaj,host,stem,Substantive,Hausherr,_
+816,kossum,basket,stem,Substantive,Korb,_
+817,kosxat,crawl,stem,Verb,krabbeln,_
+818,kosʲaj,_,stem,_,_,_
+819,kotilʲ,_,stem,_,_,_
+820,kotli,middle,stem,Substantive,Mitte,_
+821,kotʲl,_,stem,_,_,_
+822,kotʲlʲ,_,stem,_,_,_
+823,kotʲlʲa,_,stem,_,_,_
+824,kotʲəlʲ,middle,stem,Substantive,Mittel,M-K 243 a
+825,koːm,_,stem,_,_,_
+826,kulʲ,devil,stem,Substantive,Teufel,_
+827,kurʲenkova,Kurʲenkova,stem,Proper Noun,Kurʲenkova,_
+828,kus,want,stem,Verb,wollen,M-K 225b
+829,kusʲən,gift,stem,Substantive,Geschenk,_
+830,kusʲən laxt,present with a gift,phrase,Verb,schenken,_
+831,kutu,_,stem,_,_,_
+832,kutu ojka,_,phrase,_,_,_
+833,kutuw,_,stem,_,_,_
+834,kutuw ojka,_,phrase,_,_,_
+835,kutʲu,_,stem,_,_,_
+836,kutʲu ojka,dog,phrase,Substantive,Hund,_
+837,kutʲuw,dog,stem,Substantive,Hund,_
+838,kuːstir,fast,stem,Adjective,schnell,_
+839,kuːsʲaj,(land)lord,stem,Substantive,(Haus)Herr,_
+840,kuːsʲəj,_,stem,_,_,_
+841,kuːtʲuw,_,stem,_,_,_
+842,kwal,_,stem,_,_,_
+843,kwalt,take,stem,Verb,bringen,_
+844,kwaltt,_,stem,_,_,_
+845,kʷal,_,stem,_,_,_
+846,kʷall,_,stem,_,_,_
+847,kʷalt,_,stem,_,_,_
+848,kʷaltap,_,stem,_,_,_
+849,kʷaːl,go,stem,Verb,gehen,_
+850,kʷaːlap,stand up,stem,Verb,aufstehen,
+851,kʷaːliɣ,rope,stem,Substantive,Strick,_
+852,kʷaːltap,rouse,stem,Verb,aufscheuchen,"B&V 36a, M&K 230b"
+853,kʷons,grasp,stem,Verb,krallen,_
+854,lakʷ,belt,stem,Substantive,Riemen,_
+855,lakʷ,step,stem,Verb,schreiten,_
+856,lakʷant,lag,stem,Verb,fortschreiten,"M&K 248a, B&V 42b"
+857,lap,covered,stem,Adjective,_,_
+858,lap rat,hit,phrase,Verb,schlagen,_
+859,lap reːpiɣt,throw,phrase,Verb,werfen,_
+860,lap taɣat,hang,phrase,Verb,aufhängen,_
+861,lap tusʲtiɣp,put,phrase,Verb,setzen,_
+862,lap xarumt,extinguish,phrase,Verb,erlöschen,_
+863,lap=,COMPL,proclitic,Preverb,COMPL,_
+864,lapilaxt,betray,stem,Verb,betrügen,M-K 251 a
+865,laplaxt,_,stem,_,_,_
+866,latkat,crack,stem,Verb,knacken,_
+867,latəŋ,word,stem,Substantive,Wort,
+868,law,_,stem,_,_,_
+869,laxt,move,stem,Verb,bewegen,_
+870,laɣl,foot,stem,Substantive,Fuß,_
+871,laɣəl,_,stem,_,_,_
+872,laːkʷ,circle,stem,Substantive,Kreis,M-K 246 b
+873,laːkʷa keːt,send away,phrase,Verb,wegschicken,_
+874,laːkʷa soːs,pour,phrase,Verb,gießen,_
+875,laːkʷa=,dis-,proclitic,Preverb,zer-,_
+876,laːp,accommodate,stem,Verb,hineinpassen,B/V 44b
+877,laːsʲal,slow,stem,Adjective,langsam,"M&K 252a, B&V 45a"
+878,laːsʲlakʷ,_,stem,_,_,_
+879,laːtŋ,_,stem,_,_,_
+880,laːtəŋ,_,stem,_,_,_
+881,laːw,say,stem,Verb,sagen,Balandin-Vakhusheva 42;  Munkácsi-Kálmán 254; Kálmán 1963 (ChrVog) 82
+882,laːw,_,stem,_,_,_
+883,laːw,_,stem,_,_,_
+884,laːws,promise,stem,Verb,versprechen,_
+885,laːwəlt,say,stem,Verb,sagen,_
+886,laːɣəl,foot,stem,Substantive,Fuß,_
+887,leŋn,_,stem,_,_,_
+888,leŋtas,stick,stem,Verb,stecken,_
+889,leɣ,_,stem,_,_,_
+890,leɣmat,pull out,stem,Verb,hervorziehen,M/K 257b; 
+891,leɣən,_,stem,_,_,_
+892,leːwat,pull out,stem,Verb,hervorziehen,"B&V 48b, M&K 257b"
+893,leːŋn,squirrel,stem,Substantive,Eichhörnchen,M-K 255 b
+894,leːŋxən,_,stem,_,_,_
+895,leːŋən,squirrel,stem,Substantive,Eichhörnchen,_
+896,leːŋɣən,_,stem,_,_,_
+897,leːɣ,tail,stem,Substantive,Schwanz,_
+898,leːɣmat,_,stem,_,_,_
+899,lilaŋ,fresh,stem,Adjective,frisch,_
+900,lili,life,stem,Substantive,Leben,_
+901,lisʲsʲənt,shoot around,stem,Verb,herumschießen,_
+902,lit,_,stem,_,_,_
+903,liɣ,throw,stem,Verb,werfen,_
+904,liɣ,_,stem,_,_,_
+905,lomt,piece,stem,Substantive,Stück,_
+906,lonʲxat,slide,stem,Verb,gleiten,_
+907,losit,unbind,stem,Verb,aufmachen,_
+908,losʲit,wide,stem,Adjective,breit,_
+909,lot,value,stem,Substantive,Wert,_
+910,low,_,stem,_,_,_
+911,low,ten,stem,Cardinal numeral,zehn,_
+912,lowinʲt,read,stem,Verb,lesen,_
+913,lowt,wash,stem,Verb,waschen,_
+914,lox,_,stem,_,_,_
+915,loxas,knock,stem,Verb,klopfen,_
+916,loŋxat,_,stem,_,_,_
+917,loːmt,_,stem,_,_,_
+918,loːteː,ember,stem,Substantive,Feuersglut,_
+919,loːŋxa,_,stem,_,_,_
+920,loːŋxalʲ,downstream,stem,Adverb,stromabwärts,M-K 265b
+921,lui,belonging to the lower course,stem,Adjective,zum Flussunterlauf gehörend,_
+922,lui sup,lower course,phrase,Substantive,Unterlauf,_
+923,lunan,lower course of the river,stem,Substantive,Unterlauf des Flusses,_
+924,lunt,_,stem,_,_,_
+925,lupta,_,stem,_,_,_
+926,lusəm,Lozva,stem,Proper Noun,Loswa,_
+927,lut,_,stem,_,_,_
+928,lutəŋ,_,stem,_,_,_
+929,luw,_,stem,_,_,_
+930,luw,bone,stem,Substantive,Knochen,_
+931,luːi oːwəl,lower part of the town,phrase,Adverb,unterer Teil des Dorfes,_
+932,luːjimaː,North,phrase,Substantive,Norden,_
+933,luːjmas,ice pick,stem,Substantive,Eispickel,"B&V 48a, M&K 275b"
+934,luːnt,wild goose,stem,Substantive,Wildgans,Balandin-Vakhusheva 48;  Munkácsi-Kálmán 276
+935,luːpi,rolled lumber,stem,Substantive,Windbruch,_
+936,luːpta,leaf,stem,Substantive,Blatt,M-K 276 b
+937,luːt,all the rest,stem,Substantive,und andere Sachen,M-K 278 a Balandin 48 b
+938,luːw,horse,stem,Substantive,Pferd,Balandin-Vakhusheva 47;  Munkácsi-Kálmán 272; Kálmán 1963 (ChrVog) 85
+939,lʲalʲt,against,stem,Postposition,gegen,
+940,lʲapan,close,stem,Adjective,nahe,"M&K 282a, B&V 49b"
+941,lʲapat,in proximity to,stem,Postposition,in der Nähe,_
+942,lʲapawt,_,stem,_,_,_
+943,lʲawt,curse,stem,Verb,fluchen,_
+944,lʲaxxal,news,stem,Substantive,Nachricht,"B&V, 50b"
+945,lʲaŋkwi,_,stem,_,_,_
+946,lʲaŋkʷi,dull axe,stem,Substantive,stumpfe Axt,M&K 283b
+947,lʲaŋkʷli,_,stem,_,_,_
+948,lʲaɣal,_,stem,_,_,_
+949,lʲaːwt,_,stem,_,_,_
+950,lʲaːŋkʷi,_,stem,_,_,_
+951,lʲaːɣal,say,stem,Verb,aussprechen,Balandin-Vakhusheva 49; 
+952,lʲeːxtxat,get stuck,stem,Verb,steckenbleiben,_
+953,lʲox,_,stem,_,_,_
+954,lʲoxpatta,track,stem,Substantive,Spur,_
+955,lʲoŋx,_,stem,_,_,_
+956,lʲoːx,_,stem,_,_,_
+957,lʲoːŋx,way,stem,Substantive,Weg,_
+958,lʲoːŋx jaːs,path,phrase,Substantive,Pfad,_
+959,lʲudvʲig-maksʲimʲilʲian,Ludwig-Maximilian,phrase,Proper Noun,Ludwig-Maximilian,_
+960,lʲul,_,stem,_,_,_
+961,lʲulʲ,_,stem,_,_,_
+962,lʲulʲit,high,stem,Adjective,hoch,_
+963,lʲulʲmiɣt,stand,stem,Verb,stehen,_
+964,lʲunʲsʲ,_,stem,_,_,_
+965,lʲuːlʲ,bad,stem,Adjective,schlecht,_
+966,lʲuːlʲ,stand,stem,Verb,stehen,_
+967,lʲuːlʲaxol,stand,stem,Verb,stehen,Balandin 49a
+968,lʲuːlʲsaŋ,badly,stem,Adverb,schlecht,_
+969,lʲuːlʲssaŋ,_,stem,_,_,_
+970,lʲuːnʲsʲ,_,stem,_,_,_
+971,lʲuːsʲ,cry,stem,Verb,weinen,B&V 49; M&K 286b
+972,lʲuːsʲ,weeping,stem,Substantive,Weinen,B&V 49; M&K 286b
+973,lˡuːlʲ,_,stem,_,_,_
+974,ma,_,stem,_,_,_
+975,maj,but,stem,Particle,doch,_
+976,man,_,stem,_,_,_
+977,man,what kind of,stem,Question particle,was für ein,"Balandin&Vahrusheva, 51a"
+978,man,or,stem,Coordinating conjunction,oder,"Balandin&Vahrusheva, 51a"
+979,man,APP,stem,Approximative numerals,APP,_
+980,mana,_,stem,_,_,_
+981,manar,doing sth. repeatedly,stem,Verb,wiederholt etwas tun,Engl. und D Übersetzung prüfen; B-V 51b
+982,manare,_,stem,_,_,_
+983,manariɣ,_,stem,_,_,_
+984,manawen,_,stem,_,_,_
+985,manawn,1PL.DLAT,stem,Personal pronoun,1PL.DLAT,_
+986,manax,how many,stem,Question particle,wieviel,K
+987,maniɣt,tear,stem,Verb,zerreißen,_
+988,manos,or,stem,Coordinating conjunction,oder,_
+989,manreɣ,_,stem,_,_,_
+990,manrəɣ,why,stem,Interrogative pronoun,warum,"Munkácsi-Kálmán, 296b;"
+991,manurəl,why,stem,Question particle,warum,B-V 52a
+992,manǝr,what,stem,Interrogative pronoun,was,"Munkácsi-Kálmán, 296a; Balandin/Vahrusheva, 52a;"
+993,manəmt,_,stem,_,_,_
+994,manəmt,tear,stem,Verb,reißen,_
+995,manəmət,_,stem,_,_,_
+996,manəriɣ,_,stem,_,_,_
+997,manʲ,daughter in law,stem,Substantive,Schwiegertochter,M-K 298 b
+998,manʲ,_,stem,_,_,_
+999,manʲsʲi,_,stem,_,_,_
+1000,manʲsⁱi,_,stem,_,_,_
+1001,mar,narrow,stem,Verb,eng werden,_
+1002,marl,press,stem,Verb,drücken,M-K 302a
+1003,mas,dress,stem,Verb,anziehen,_
+1004,mass,_,stem,_,_,_
+1005,masxat,get dressed,stem,Verb,sich anziehen,_
+1006,mat,become old,stem,Verb,alt werden,_
+1007,mat,some,stem,Indefinite pronoun,irgendein,_
+1008,matəm,оld,stem,Adjective,alt,_
+1009,matər,something,stem,Indefinite pronoun,etwas,_
+1010,matər aːtʲi,something,phrase,Indefinite pronoun,etwas,_
+1011,matər maːn,something,phrase,Indefinite pronoun,irgendwas,_
+1012,maxm,_,stem,_,_,_
+1013,maxum,_,stem,_,_,_
+1014,maɣ,stuff,stem,Verb,stopfen,M-K 291b
+1015,maɣ,_,stem,_,_,_
+1016,maɣl,chest,stem,Substantive,Brust,_
+1017,maɣs,_,stem,_,_,_
+1018,maɣsəl,_,stem,_,_,_
+1019,maɣtal,stick,stem,Verb,stecken,_
+1020,maɣəs,_,stem,_,_,_
+1021,maʃɨna,[Ru. machine],stem,Substantive,[Ru. Maschine],russ.
+1022,maː,land,stem,Substantive,Land,"Munkacsi-Kálmán, 288a; Balandin/Vahrusheva, 50a; "
+1023,maːi,_,stem,_,_,_
+1024,maːn,1PL,stem,Personal pronoun,1PL,"Munkácsi-Kálmán, 297a;"
+1025,maːnaw,1PL.OBL,stem,Personal pronoun,1PL.OBL,_
+1026,maːnawn,_,stem,_,_,_
+1027,maːnki,1PL,stem,Emphatic personal pronoun,1PL,_
+1028,maːnǝr,_,stem,_,_,_
+1029,maːnən,_,stem,_,_,_
+1030,maːnʲ,young,stem,Adjective,jung,_
+1031,maːnʲlat,young,stem,Adjective,jung,_
+1032,maːnʲsʲi,Mansi,stem,Proper Noun,Mansi,_
+1033,maːnʲut,baby,phrase,Substantive,Säugling,B-V 52b
+1034,maːtaːprisʲ,mouse,stem,Substantive,Maus,_
+1035,maːtər aːtʲi,_,phrase,_,_,_
+1036,maːxm,_,stem,_,_,_
+1037,maːxman,people,stem,Substantive,_,_
+1038,maːxum,nation,stem,Substantive,Volk,
+1039,maːɣsel,_,stem,_,_,_
+1040,maːɣsil,because of,stem,Postposition,wegen,_
+1041,maːɣssel,_,stem,_,_,_
+1042,maːɣəs,for,stem,Postposition,für,
+1043,met,fee,stem,Substantive,Lohn,_
+1044,met xum,serf,phrase,Substantive,Knecht,M-K 306 b
+1045,metalaxt,hire out,stem,Verb,in Dienst treten,_
+1046,meŋkʷ,_,stem,_,_,_
+1047,meːi,the two of us,stem,Particle,wir beide,_
+1048,meːn,1DU,stem,Personal pronoun,1DU,_
+1049,meːnameːn,1DU.OBL,stem,Personal pronoun,_,_
+1050,meːnameːnnəl,1DU.ABL,stem,Personal pronoun,_,_
+1051,meːnki,1DU,stem,Emphatic personal pronoun,1DU,_
+1052,meːŋkw,_,stem,_,_,_
+1053,meːŋkʷ,forest spirit,stem,Substantive,Waldgeist,_
+1054,min,_,stem,_,_,_
+1055,min,go,stem,Verb,gehen,"Munkácsi-Kálmán, 307b; Balandin/Vahrusheva, 54b;"
+1056,minmiɣt,head off,stem,Verb,aufbrechen,_
+1057,mir,nation,stem,Substantive,Volk,
+1058,mir susneː xum,World-Watching Man,phrase,Proper Noun,der die Welt beschauende Mann,_
+1059,mirɣ,thunder,stem,Verb,donnern,_
+1060,mis,cow,stem,Substantive,Kuh,_
+1061,mis,ghost,stem,Substantive,Geist,_
+1062,mis xum,ghost,phrase,Substantive,Geist,_
+1063,miɣ,_,stem,_,_,_
+1064,miɣ,give,stem,Verb,geben,_
+1065,miːn,_,stem,_,_,_
+1066,mojt,_,stem,_,_,_
+1067,molal,_,stem,_,_,_
+1068,molax,erstwhile,stem,Adverb,früher,_
+1069,molʲax,fast,stem,Adverb,schnell,"Munkácsi-Kálmán, 312b; Balandin/Vahrusheva, 55b; "
+1070,molʲəxnuw,_,stem,_,_,_
+1071,mori,"all at once, suddenly",stem,Adverb,"auf einmal, plötzlich",_
+1072,mori ma,_,phrase,_,_,_
+1073,mortim ekʷa,_,phrase,_,_,_
+1074,mortim ma,_,phrase,_,_,_
+1075,mortim uj,_,phrase,_,_,_
+1076,mos,until,stem,Postposition,bis,_
+1077,mos,illness,stem,Substantive,Krankheit,B&V 56b
+1078,mosʲ,a little,stem,Adverb,ein bisschen,_
+1079,mosʲsʲa,_,stem,_,_,_
+1080,mot,_,stem,_,_,_
+1081,movint,_,stem,_,_,_
+1082,mowint,_,stem,_,_,_
+1083,mowintʲ,laugh,stem,Verb,lachen,_
+1084,mowr,stick,stem,Substantive,Knotenstock,_
+1085,mowr nʲaːl,dull arrow,phrase,Substantive,Stumpfpfeil,_
+1086,mowrnʲaːl,sap,stem,Substantive,Knüppel,_
+1087,moːjt,tale,stem,Substantive,Märchen,_
+1088,moːl,previous,stem,Adjective,vorig,_
+1089,moːl xoːtal,_,phrase,_,_,_
+1090,moːl xoːtəl,yesterday,phrase,Adverb,gestern,_
+1091,moːlal,_,stem,_,_,_
+1092,moːlalʲ,once,stem,Adverb,einst,Munk
+1093,moːrsəŋ,appropriate,stem,Adjective,entsprechend,_
+1094,moːrtim eːkʷa,southland woman,phrase,Proper Noun,Südlandalte,
+1095,moːrtim maː,Southland,phrase,Proper Noun,Südland,"Munkácsi-Kálmán 315a; Balandin/Vahrusheva, 56a; Böger et. al, 2000; Langenscheidt Taschenwörterbuch Russisch, 2003"
+1096,moːrtim uːj,migratory bird,phrase,Substantive,Zugvogel,"Munkácsi-Kálmán, 315a;"
+1097,moːsmaltal,maim,stem,Verb,verstümmeln,_
+1098,moːt,different,stem,Adjective,anders,_
+1099,moːtan,other,stem,Pro-form,anderer,_
+1100,moːtpal,foreign,stem,Adjective,ausländisch,_
+1101,mujl,_,stem,_,_,_
+1102,mulɣalʲ uːntt,place sth opposite the door,phrase,Verb,gegenüber der Tür platzieren,_
+1103,mulɣalʲ=,around,proclitic,Preverb,ringsumher,_
+1104,munt,just now,stem,Adverb,soeben,_
+1105,munt taɣəl,just now,phrase,Adverb,soeben,_
+1106,murt,inveigh,stem,Verb,schimpfen,M/K 321b
+1107,muvint,_,stem,_,_,_
+1108,muwl,all around,stem,Adverb,rundherum,_
+1109,muwr,bat,stem,Substantive,Klotz,_
+1110,muwər,_,stem,_,_,_
+1111,muːjl,be guest,stem,Verb,zu Gast sein,"Munkácsi-Kálmán, 318b; Balandin/Vahrusheva, 57b, Böger et. al, 2000"
+1112,muːnt,_,stem,_,_,_
+1113,muːs,as,stem,Postposition,nach,_
+1114,muːsxal,measure,stem,Substantive,Maß,_
+1115,muːsxal,according to,stem,Postposition,nach,_
+1116,məɣ,_,stem,_,_,_
+1117,mʲerov,Merov,stem,Proper Noun,_,_
+1118,mʲunxʲen,[Ru. Munich],stem,Proper Noun,[Ru. München],_
+1119,na:l joxt,_,phrase,Verb,_,_
+1120,nadʲeʒda,Nadʲeʒda,stem,Proper Noun,Nadʲeʒda,_
+1121,nai,_,stem,_,_,_
+1122,nai,_,stem,_,_,_
+1123,naj,_,stem,_,_,_
+1124,naj,_,stem,_,_,_
+1125,naj aɣə,mistress,phrase,Substantive,Herrin,_
+1126,naj tene warmalʲ,energy,phrase,Substantive,Energie,_
+1127,nak,sin,stem,Substantive,Sünde,_
+1128,nal,barrel,stem,Substantive,Schaft,_
+1129,naluw peːt,put into the kettle,phrase,Verb,in den Kessel legen,_
+1130,naluw taɣat,hang towards the fire,phrase,Verb,in Richtung des Feuers aufhängen,_
+1131,naluw waɣl,betake oneself onto the water,phrase,Verb,sich auf das Wasser begeben,_
+1132,naluw=,towards the river,proclitic,Preverb,_,_
+1133,nam,name,stem,Substantive,Name,_
+1134,nampa,named,stem,Postposition,namens,_
+1135,nan,_,stem,_,_,_
+1136,nanan,_,stem,_,_,_
+1137,nanann,2PL.DLAT,stem,Personal pronoun,2PL.DLAT,_
+1138,nank,_,stem,_,_,_
+1139,nariɣt,push,stem,Verb,schieben,_
+1140,narmət,push away,stem,Verb,wegschieben,_
+1141,narumt,flounce in,stem,Verb,hineinstürzen,_
+1142,nas,only,stem,Adverb,nur,"Munkácsi-Kálmán, 338a; Balandin/Vahrusheva, 60b; Böger et al, 2000; Langenscheidt Taschenwörterbuch Russisch, 2003"
+1143,nas ati,_,stem,_,_,_
+1144,nas aːti,_,stem,_,_,_
+1145,nasatʲi,as it turns out,stem,Adverb,wie sich herausstellt,_
+1146,nasaːtʲi,_,stem,_,_,_
+1147,nauka,[Ru. science],stem,Substantive,[Ru. Wissenschaft],russ.
+1148,nawl,_,stem,_,_,_
+1149,nawram,_,stem,_,_,_
+1150,naŋ,2SG,stem,Personal pronoun,2SG,"Munkácsi-Kálmán, 328a; Balandin/Vahrusheva, 60a"
+1151,naŋan,_,stem,_,_,_
+1152,naŋen,2SG.DLAT,stem,Personal pronoun,2SG.DLAT,_
+1153,naŋk,_,stem,_,_,_
+1154,naŋki,2SG,stem,Emphatic personal pronoun,2SG,_
+1155,naŋən,2SG.OBL,stem,Personal pronoun,2SG.OBL,_
+1156,naːj,mistress,stem,Substantive,Gebieterin,_
+1157,naːj,fire,stem,Substantive,Feuer,_
+1158,naːjiːw,firewood,stem,Substantive,Feuerholz,_
+1159,naːl joxt,come to the water,phrase,Verb,zum Wasser kommen,_
+1160,naːl min,go towards the water,phrase,Verb,in Richtung Wasser gehen,_
+1161,naːl puwtam,push towards the water,phrase,Verb,ins Wasser schieben,_
+1162,naːl sʲeːltamt,throw,phrase,Verb,werfen,_
+1163,naːl taɣat,hang,phrase,Verb,aufhängen,_
+1164,naːl taːl,get on a boat,phrase,Verb,ins Boot steigen,_
+1165,naːl waːɣl,get to the water,phrase,Verb,sich zum Wasser begeben,_
+1166,naːl=,towards the water,proclitic,Preverb,in Richtung des Wassers,_
+1167,naːlm,down (at the water),stem,Adverb,unten (am Wasser),_
+1168,naːlməl,from the river,stem,Adverb,vom Fluss,_
+1169,naːluw narmtaxt,push oneself towards the water,phrase,Verb,sich ans Wasser schieben,_
+1170,naːluw peːt,put into the kettle,phrase,Verb,in den Kessel legen,_
+1171,naːluw=,towards the river,proclitic,Preverb,in Richtung Fluss,_
+1172,naːluː laj,throw into the water,phrase,Verb,ins Wasser werfen,_
+1173,naːluː=,_,proclitic,_,_,_
+1174,naːlw xajt,run towards the water,phrase,Verb,in Richtung des Wassers laufen,_
+1175,naːlw=,towards the shore,proclitic,Preverb,in Richtung des Ufers,_
+1176,naːlwalʲ=,_,proclitic,_,_,_
+1177,naːn,2PL,stem,Personal pronoun,2PL,_
+1178,naːnan,2PL.OBL,stem,Personal pronoun,2PL.OBL,"Munkácsi-Kálmán, 328b"
+1179,naːnki,2PL,stem,Emphatic personal pronoun,2PL,_
+1180,naːnki,_,stem,_,_,_
+1181,naːŋ,_,stem,_,_,_
+1182,naːŋk,larch,stem,Substantive,Lärche,"M&K 329, B&V 60"
+1183,naːŋk,be visible,stem,Verb,sichtbar sein,"Munkácsi-Kálmán, 329a; Balandin/Vahrusheva, 60a; Böger et. al, 2000"
+1184,naːŋki,_,stem,_,_,_
+1185,naːŋtʲ,_,stem,_,_,_
+1186,ne,_,stem,_,_,_
+1187,neiɣl,_,stem,_,_,_
+1188,nejl,_,stem,_,_,_
+1189,nejəl,_,stem,_,_,_
+1190,nelum,_,stem,_,_,_
+1191,nematər,nothing,phrase,Negative pronoun,nichts,_
+1192,nen,_,stem,_,_,_
+1193,nenan,2DU.OBL,stem,Personal pronoun,2DU.OBL,_
+1194,neŋkeːn,2DU,stem,Solitary personal pronouns,2DU,_
+1195,neɣ,_,stem,_,_,_
+1196,neɣsal,_,stem,_,_,_
+1197,neː,woman,stem,Substantive,Frau,_
+1198,neː-,NEG,prefix,Indefinite pronoun,NEG,_
+1199,neːmat,nothing,phrase,Negative indefinite pronoun,nichts,_
+1200,neːmatər,_,phrase,_,_,_
+1201,neːmatər sir,no one,phrase,Negative indefinite pronoun,niemand,_
+1202,neːmxottalʲ,nowhere,phrase,Indefinite pronoun,nirgendwohin,_
+1203,neːmxoːt,nowhere,phrase,Indefinite pronoun,nirgendwo,_
+1204,neːn,2DU,stem,Personal pronoun,2DU,_
+1205,neːnann,2DU.DLAT,stem,Personal pronoun,2DU.DLAT,_
+1206,neːnki,_,stem,_,_,_
+1207,neːpak,book,stem,Substantive,Buch,_
+1208,neːŋki,2DU,stem,Emphatic personal pronoun,2DU,_
+1209,neːɣ,tie,stem,Verb,binden,"Munkácsi-Kálmán, 335b; "
+1210,neːɣ,_,stem,_,_,_
+1211,neːɣl,appear,stem,Verb,sichtbar werden,_
+1212,neːɣlap,appear,stem,Verb,erscheinen,_
+1213,neːɣsal,tie,stem,Verb,binden,M/K 336a
+1214,ngu,[Ru. NGU],stem,Proper Noun,[Ru. NGU],_
+1215,nikolajevič,Nikolajevič,stem,Proper Noun,Nikolajevič,_
+1216,nila,_,stem,_,_,_
+1217,nilit,_,stem,_,_,_
+1218,nir,_,stem,_,_,_
+1219,nomelmat,_,stem,_,_,_
+1220,noms,think,stem,Verb,denken,"Munkácsi-Kálmán, 340a;  Balandin/Vahrusheva, 64a"
+1221,nomsaxt,think,stem,Verb,nachdenken,M-K 340a
+1222,nomt,reason,stem,Substantive,Verstand,
+1223,noməlmat,think,stem,Verb,denken,"Munkácsi-Kálmán, 339b; Balandin/Vahrusheva, 64b; Papp, 1962;"
+1224,noməs,think,stem,Verb,denken,_
+1225,nopəl,_,stem,_,_,_
+1226,not,age,stem,Substantive,Zeitalter,
+1227,not palətəɣ,while,phrase,Postposition,während,_
+1228,novosʲibʲirskʲij gosudarstvʲennɨj unʲivʲersʲitʲet,[Ru. Novosibirsk State University],phrase,Proper Noun,[Ru. Staatliche Universität von Novosibirsk],_
+1229,now,begin,stem,Verb,beginnen,_
+1230,nowlʲ,_,stem,_,_,_
+1231,nowəl,_,stem,_,_,_
+1232,nowəɣ,touch,stem,Verb,berühren,B/V 64a
+1233,nox entxat,gird,phrase,Verb,umgürten,_
+1234,nox kwal,_,phrase,_,_,_
+1235,nox kʷaːl,_,phrase,_,_,_
+1236,nox palt,heat up,phrase,Verb,stark heizen,_
+1237,nox saikal,wake up,phrase,Verb,aufwachen,_
+1238,nox tot,bring up,phrase,Verb,hinauf bringen,_
+1239,nox xaŋx,_,phrase,_,_,_
+1240,nox=,up,proclitic,Preverb,auf,_
+1241,noxs,_,stem,_,_,_
+1242,noxəs,_,stem,_,_,_
+1243,noŋ pelamt,ignite,phrase,Verb,anzünden,_
+1244,noŋ=,_,proclitic,_,_,_
+1245,noŋk=,_,proclitic,_,_,_
+1246,noŋx joxt,raise,phrase,Verb,sich erheben,_
+1247,noŋx keːr,bead,phrase,Verb,aufreihen,_
+1248,noŋx kʷal,_,phrase,_,_,_
+1249,noŋx kʷalap,stand up suddenly,phrase,Verb,plötzlich aufstehen,_
+1250,noŋx pat,come up,phrase,Verb,hinauf kommen,_
+1251,noŋx tal,get on,phrase,Verb,einsteigen,_
+1252,noŋx talt,load,phrase,Verb,beladen,_
+1253,noŋx unt,stand up,phrase,Verb,aufstehen,_
+1254,noŋx wi,pick up,phrase,Verb,aufnehmen,_
+1255,noŋx xart,stretch,phrase,Verb,spannen,_
+1256,noŋx xartiɣl,drag up,phrase,Verb,hinauf zerren,_
+1257,noŋx xaŋxəɣt,climb up fast,phrase,Verb,schnell hinauf klettern,_
+1258,noŋx=,_,proclitic,_,_,_
+1259,noŋxa=,_,proclitic,_,_,_
+1260,noŋxal,_,stem,_,_,_
+1261,noːmilmat,_,stem,_,_,_
+1262,noːx kʷaːltap,rouse,phrase,Verb,aufscheuchen,_
+1263,noːx saːjkal,wake up,phrase,Verb,aufwachen,_
+1264,noːx uːnt,sit up,phrase,Verb,sich aufsetzen,_
+1265,noːx xaːŋx,climb up,phrase,Verb,hochklettern,_
+1266,noːx=,_,proclitic,_,_,_
+1267,noːŋx aːŋkʷat,look up,phrase,Verb,hinauf blicken,_
+1268,noːŋx kʷaːl,pop up,phrase,Verb,auftauchen,_
+1269,noːŋx nejl,appear,phrase,Verb,erscheinen,_
+1270,noːŋx neɣl,_,phrase,_,_,_
+1271,noːŋx patt,take,phrase,Verb,nehmen,_
+1272,noːŋx paːjalt,start boiling,phrase,Verb,zu sieden beginnen,_
+1273,noːŋx xulʲiɣt,surface,phrase,Verb,auftauchen,_
+1274,noːŋx=,_,proclitic,_,_,_
+1275,noːŋxalʲ,upwards,stem,Adverb,hinauf,"M&K 342, B&V 64"
+1276,nu,well now,stem,Interjection,nun,_
+1277,nuj,peel,stem,Verb,schälen,_
+1278,nujiɣ,flense,stem,Verb,schinden,_
+1279,nujɣ,_,stem,_,_,_
+1280,numi,upper,stem,Adjective,ober,_
+1281,numipaːleːt,above,phrase,Postposition,über,_
+1282,numipaːlna,above,phrase,Postposition,über,_
+1283,numn,up there,stem,Adverb,oben,_
+1284,numəl,from above,stem,Postposition,von oben,_
+1285,numən,_,stem,_,_,_
+1286,nupəl,_,stem,_,_,_
+1287,nur,anger,stem,Substantive,Zorn,_
+1288,nusa,poor,stem,Adjective,arm,_
+1289,nusam,_,stem,_,_,_
+1290,nuːl,rapid flow of the river,stem,Substantive,schneller Lauf des Flusses,_
+1291,nuːpl,_,stem,_,_,_
+1292,nuːpəl,towards,stem,Postposition,gegen,
+1293,nʲajt,shaman,stem,Substantive,Schamane,M-K 350 a
+1294,nʲajt xum,shaman,phrase,Substantive,Schamane,_
+1295,nʲal,_,stem,_,_,_
+1296,nʲar,fresh,stem,Adjective,frisch,_
+1297,nʲar,_,stem,_,_,_
+1298,nʲar,moor,stem,Substantive,Moor,_
+1299,nʲara,_,stem,_,_,_
+1300,nʲas,fang of bear,stem,Substantive,Bärenkralle,_
+1301,nʲaul,pursue,stem,Verb,verfolgen,"Munkácsi-Kálmán, 359b; Böger et. al, 2000; Langenscheidt Taschenwörterbuch Russisch, 2003; Langenscheidts Taschenwörterbuch der englischen und deutschen Sprache, 1960"
+1302,nʲawl,_,stem,_,_,_
+1303,nʲawlxat,hurry up,stem,Verb,sich beeilen,"Munkácsi-Kálmán, 359b; Balandin/Vahrusheva, 68b"
+1304,nʲawlə,follow,stem,Verb,verfolgen,M-K 359a
+1305,nʲawram,_,stem,_,_,_
+1306,nʲaŋra,forceful,stem,Adjective,stark,_
+1307,nʲaːksʲataːl,flop,stem,Verb,hinplumpsen,B&V 68b
+1308,nʲaːl,arrow,stem,Substantive,Pfeil,_
+1309,nʲaːluw peːt,_,phrase,_,_,_
+1310,nʲaːluw=,_,proclitic,_,_,_
+1311,nʲaːlʲ,_,stem,_,_,_
+1312,nʲaːlʲ,trap,stem,Substantive,Falle,_
+1313,nʲaːr,raw,stem,Adjective,roh,M-K 256 b
+1314,nʲaːra,shoe,stem,Substantive,Schuh,Sense 2 M-K 357 a
+1315,nʲaːwram,child,stem,Substantive,Kind,"Munkácsi-Kálmán, 359b; Balandin/Vahrusheva, 68a; Böger et. al, 2000"
+1316,nʲelm,_,stem,_,_,_
+1317,nʲelum,_,stem,_,_,_
+1318,nʲemʲets,[Ru. German],stem,Substantive,"[Ru. Deutsche,r]",_
+1319,nʲemʲetskʲij,[Ru. German],stem,Adjective,[Ru. deutsch],_
+1320,nʲeːlm,tongue,stem,Substantive,Zunge,_
+1321,nʲeːntsati,reindeer calf,stem,Substantive,(gelte) Wildrentierkuh,_
+1322,nʲil,_,stem,_,_,_
+1323,nʲila,four,stem,Numeral,vier,_
+1324,nʲilit,fourth,stem,Ordinal numeral,vierte,_
+1325,nʲir,brushwood,stem,Substantive,Reis,_
+1326,nʲiras,pull at,stem,Verb,zerren,_
+1327,nʲol,peak,stem,Substantive,Spitze,_
+1328,nʲolant,lick,stem,Verb,lecken,M-K 366b
+1329,nʲolkʷaːliɣ,rein,stem,Substantive,Zügel des Rentiers,_
+1330,nʲoluwj,lick,stem,Verb,lecken,_
+1331,nʲor,creep,stem,Verb,kriechen,_
+1332,nʲoul,_,stem,_,_,_
+1333,nʲowi,move,stem,Verb,sich bewegen,_
+1334,nʲowit,move,stem,Verb,bewegen,_
+1335,nʲowlʲ,_,stem,_,_,_
+1336,nʲowəl,_,stem,_,_,_
+1337,nʲowəmtapt,_,stem,_,_,_
+1338,nʲoxsaŋ,_,stem,_,_,_
+1339,nʲoxəs,sable,stem,Substantive,Zobel,_
+1340,nʲoːr,Ural,stem,Substantive,Ural,_
+1341,nʲoːwlʲ,meat,stem,Substantive,Fleisch,"M&K 371a, B&V 61b"
+1342,nʲoːwlʲ,farther,stem,Adverb,weiter,_
+1343,nʲoːxəs,_,stem,_,_,_
+1344,nʲuli,rainbow,stem,Substantive,Regenbogen,_
+1345,nʲuli kis,rainbow,phrase,Substantive,Regenbogen,_
+1346,nʲult,_,stem,_,_,_
+1347,nʲulti,swear,stem,Verb,schwören,_
+1348,nʲusm,relative (in-law),stem,Substantive,Verwandter (angeheiratet),M-K 376 a
+1349,oika,_,stem,_,_,_
+1350,oj,escape,stem,Verb,fliehen,_
+1351,oj,fall asleep,stem,Verb,einschlafen,_
+1352,ojap,escape,stem,Verb,fliehen,_
+1353,ojejp,_,stem,_,_,_
+1354,ojilmat,fall asleep,stem,Verb,einschlafen,_
+1355,ojiɣp,end,stem,Verb,enden,_
+1356,ojk,_,stem,_,_,_
+1357,ojka,_,stem,_,_,_
+1358,ojt,pay,stem,Verb,zahlen,_
+1359,ol,_,stem,_,_,_
+1360,oln,money,stem,Substantive,Geld,_
+1361,oltim,in single rank,stem,Adverb,im Gänsemarsch,_
+1362,olən,silver,stem,Substantive,Silber,_
+1363,ons,_,stem,_,_,_
+1364,onʲsʲ,_,stem,_,_,_
+1365,opa,_,stem,_,_,_
+1366,oras,log,stem,Substantive,Holzscheit,_
+1367,os,_,stem,_,_,_
+1368,os,and,stem,Coordinating conjunction,und,_
+1369,os,HORT,stem,Particle,HORT,_
+1370,os,surface,stem,Substantive,Oberfläche,_
+1371,os,possibility,stem,Substantive,Möglichkeit,_
+1372,osma,pillow,stem,Substantive,Polster,_
+1373,osta,again,stem,Particle,wieder,_
+1374,ostaː,_,stem,_,_,_
+1375,osti,again,stem,Particle,wieder,_
+1376,osəŋ,thick,stem,Adjective,dick,_
+1377,osʲ,_,stem,_,_,_
+1378,osʲa,_,stem,_,_,_
+1379,osʲmarl,outwit,stem,Verb,listig handeln,_
+1380,osʲsʲa,narrow,stem,Adjective,schmal,_
+1381,oter,_,stem,_,_,_
+1382,otər,_,stem,_,_,_
+1383,oul,_,stem,_,_,_
+1384,owl,_,stem,_,_,_
+1385,owləŋ,guilty,stem,Adjective,schuldig,_
+1386,oxsar,fox,stem,Substantive,Fuchs,_
+1387,oːjka,husband,stem,Substantive,Mann,_
+1388,oːjkarsʲ,old man,stem,Substantive,Alter,_
+1389,oːka,_,stem,_,_,_
+1390,oːl,be,stem,Verb,sein,_
+1391,oːlt,lengthen,stem,Verb,verlängern,_
+1392,oːltul,wealth,stem,Substantive,Reichtum,_
+1393,oːləm,_,stem,_,_,_
+1394,oːnsʲ,_,stem,_,_,_
+1395,oːnʲs,_,stem,_,_,_
+1396,oːnʲsʲ,have,stem,Verb,haben,_
+1397,oːnʲsʲiɣl,wear,stem,Verb,tragen,_
+1398,oːnʲɣ,sister-in-law,stem,Substantive,Schwägerin,_
+1399,oːpa,grandfather,stem,Substantive,_,_
+1400,oːr,cooker,stem,Substantive,Herd,_
+1401,oːrəm,time,stem,Substantive,Zeit,_
+1402,oːs,_,stem,_,_,_
+1403,oːs,and,stem,Coordinating conjunction,und,_
+1404,oːter,_,stem,_,_,_
+1405,oːtər,prince,stem,Substantive,Fürst,_
+1406,oːwl,guilt,stem,Substantive,Schuld,_
+1407,oːwl,end,stem,Substantive,Ende,_
+1408,oːwltit,_,stem,_,_,_
+1409,oːwlət,at the beginning,stem,Adverb,anfangs,_
+1410,oːwuml,change into,stem,Verb,sich verwandeln,_
+1411,oːwəl,_,stem,_,_,_
+1412,oːwəlt,to begin,stem,Verb,anfangen,_
+1413,oːwəltit,about,stem,Postposition,über,_
+1414,oːŋx,resin,stem,Substantive,Harz,_
+1415,oːŋxəŋ,tanned leather,stem,Substantive,gegerbtes Leder,_
+1416,pa lʲeːxtxat,get stuck,phrase,Verb,stecken bleiben,_
+1417,pa=,_,proclitic,_,_,_
+1418,pait,_,stem,_,_,_
+1419,paitiɣl,_,stem,_,_,_
+1420,pajt,_,stem,_,_,_
+1421,pajtaxt,boil,stem,Verb,kochen,M-K 402 b
+1422,palit,length,stem,Substantive,Länge,_
+1423,palit,_,stem,_,_,_
+1424,palt,to,stem,Postposition,zu,"Munkácsi-Kálmán, 407a; Balandin/Vahrusheva, 75b;"
+1425,palt,_,stem,Verb,_,_
+1426,paləɣ puns,open (in two),phrase,Verb,aufsperren,_
+1427,paləɣ=,_,proclitic,_,_,_
+1428,palʲ,ear,stem,Substantive,Ohr,_
+1429,palʲj,seize,stem,Verb,ergreifen,_
+1430,palʲpaːl,one ear,stem,Substantive,ein Ohr,_
+1431,palʲsʲimsʲak,earring,phrase,Substantive,Ohrring,ESkr
+1432,pan,_,stem,_,_,_
+1433,pan tene ojka,_,phrase,_,_,_
+1434,par,urge,stem,Verb,antreiben,_
+1435,par,end,stem,Verb,enden,_
+1436,parxat,tussle,stem,Verb,balgen,_
+1437,parəs,benefit,stem,Substantive,Nutzen,_
+1438,parɣ,_,stem,_,_,_
+1439,parɣalt,shake off,stem,Verb,ausklopfen,_
+1440,pas,_,stem,_,_,_
+1441,pas,smell,stem,Verb,riechen,"M/K 418a, 'B/V 78b"
+1442,pasa,_,stem,_,_,_
+1443,pasan,table,stem,Substantive,Tisch,_
+1444,pasapa,get,stem,Verb,gelangen,_
+1445,pasat,prick,stem,Verb,stechen,M&K 417b
+1446,pasmat,_,stem,_,_,_
+1447,passa,_,stem,_,_,_
+1448,pasəŋ,noble,stem,Adjective,hehr,_
+1449,pasʲa,greeting,stem,Substantive,Gruß,_
+1450,pat,only,stem,Particle,nur,_
+1451,pat,shoot,stem,Verb,schießen,_
+1452,pat,fall,stem,Verb,fallen,"Munkácsi-Kálmán, 422a; Balandin/Vahrusheva, 79b"
+1453,patap,get,stem,Verb,gelangen,"M&K 425b, "
+1454,patit,end,stem,Substantive,Ende,_
+1455,patiɣl,fall,stem,Verb,fallen,_
+1456,patr,_,stem,_,_,_
+1457,patt,lift,stem,Verb,aufnehmen,_
+1458,patt,drop,stem,Verb,zukommen lassen,"Munkácsi-Kálmán, 424b; Balandin/Vahrusheva, 79b;"
+1459,patta,bottom,stem,Substantive,Boden,_
+1460,pattal,drop,stem,Verb,fallen lassen,_
+1461,pattaː,_,stem,_,_,_
+1462,patəɣl,fall,stem,Verb,fallen,M/K 424
+1463,paul,_,stem,_,_,_
+1464,pawl,_,stem,_,_,_
+1465,pawəl,_,stem,_,_,_
+1466,paxot,_,stem,_,_,_
+1467,paxwt,_,stem,_,_,_
+1468,paxwtasʲl,throw,stem,Verb,werfen,_
+1469,paŋx,fly agaric,stem,Substantive,Fliegenpilz,M-K 412 b
+1470,paŋx tene xum,shaman,phrase,Proper Noun,Schamane,_
+1471,paŋxwit,_,stem,_,_,_
+1472,paɣ joxt,_,phrase,_,_,_
+1473,paɣ min,_,phrase,_,_,_
+1474,paɣlʲe,towards the shore,stem,Adverb,gegen das Ufer,_
+1475,paː jal,go up the hill,phrase,Verb,den Berg hinauf gehen,_
+1476,paː ji,come to the bank,phrase,Verb,ans Ufer kommen,_
+1477,paː joxt,_,phrase,_,_,_
+1478,paː keːt,send,phrase,Verb,schicken,_
+1479,paː kosxat,crawl to the bank,phrase,Verb,zum Ufer kriechen,_
+1480,paː kʷaːl,land on shore,phrase,Verb,anlanden,_
+1481,paː min,_,phrase,_,_,_
+1482,paː pat,get to the bank,phrase,Verb,ans Ufer gelangen,_
+1483,paː poːxt,debark on shore,phrase,Verb,am Ufer anlanden,_
+1484,paː=,_,proclitic,_,_,_
+1485,paːit,_,stem,_,_,_
+1486,paːjalt,start boiling,stem,Verb,zu sieden anfangen,_
+1487,paːjaltam,start boiling,stem,Verb,zu sieden anfangen,_
+1488,paːjp,bag made of birchbark,stem,Substantive,Birkenrinden-Ranzen,B
+1489,paːjt,boil,stem,Verb,kochen,"Munkácsi-Kálmán, 402a; Balandin/Vahrusheva, 75a;"
+1490,paːl,side,stem,Substantive,Seite,_
+1491,paːliɣ manəmt,open,phrase,Verb,öffnen,_
+1492,paːliɣ pokmat,break into two parts,phrase,Verb,entzweibrechen,_
+1493,paːliɣ=,apart,proclitic,Preverb,auseinander,_
+1494,paːlt,start a fire,stem,Verb,ein Feuer entfachen,_
+1495,paːlt,_,stem,Postposition,_,_
+1496,paːləɣ xart,open,phrase,Verb,aufmachen,_
+1497,paːləɣ=,_,proclitic,_,_,_
+1498,paːntt,flat,stem,Adjective,platt,_
+1499,paːp,buttocks,stem,Substantive,Gesäß,M&K 413b
+1500,paːrt,board,stem,Substantive,Brett,M-K 415 a
+1501,paːs,limit,stem,Substantive,Grenze,
+1502,paːsnəl,from,stem,Postposition,von,_
+1503,paːssa,mitt,stem,Substantive,Fausthandschuh,_
+1504,paːsəl,to,stem,Postposition,bis,_
+1505,paːsʲirt,press,stem,Verb,drücken,_
+1506,paːt,_,stem,_,_,_
+1507,paːtər,disappear,stem,Verb,verschwinden,_
+1508,paːwl,_,stem,_,_,_
+1509,paːwəl,village,stem,Substantive,Dorf,Mun
+1510,paːxt,_,stem,_,_,_
+1511,paːxwt,shoot,stem,Verb,schießen,"M/K 401a, B&V 80a"
+1512,paːxʷt,_,stem,_,_,_
+1513,paːxʷt,_,stem,_,_,_
+1514,paːŋk,grime,stem,Substantive,Ruß,_
+1515,paːŋxwit,in width of,stem,Adjective,von der Breite,_
+1516,paːɣ joxt,get ashore,phrase,Verb,ans Ufer kommen,_
+1517,paːɣ min,go to the bank,phrase,Verb,ans Ufer gehen,_
+1518,paːɣ tot,bring ashore,phrase,Verb,ans Ufer bringen,_
+1519,paːɣ xaːrt,drag ashore,phrase,Verb,ans Ufer schleppen,_
+1520,paːɣ=,to the bank,proclitic,Preverb,ans Ufer,_
+1521,peat,_,stem,_,_,_
+1522,pel,_,stem,_,_,_
+1523,pelaml,catch fire,stem,Verb,sich entzünden,MK 429a
+1524,pelamt,_,stem,_,_,_
+1525,pelp,_,stem,_,_,_
+1526,per,_,stem,_,_,_
+1527,pes,_,stem,_,_,_
+1528,pestal,_,stem,_,_,_
+1529,peːl,prick,stem,Verb,stechen,_
+1530,peːlamt,ignite,stem,Verb,anzünden,KM 429a; BV 80a
+1531,peːlp,fast,stem,Adjective,schnell,M-K 430 a
+1532,peːlpəsʲ,fast,stem,Adverb,schnell,_
+1533,peːləp,quickness,stem,Substantive,Flinkheit,_
+1534,peːn,put into,stem,Verb,hineinstecken,_
+1535,peːr,turn,stem,Verb,drehen,_
+1536,peːr,crossbeam,stem,Substantive,Querbalken,_
+1537,peːrj,choose,stem,Verb,auswählen,_
+1538,peːs,old,stem,Adjective,alt,_
+1539,peːs,before,stem,Adverb,früher,_
+1540,peːsmat,to disengage oneself,stem,Verb,sich lösen,M&K 436a
+1541,peːst,disengage,stem,Verb,lösen,_
+1542,peːstel,disengage,stem,Verb,lösen,"M/K 436b, B&V 81b"
+1543,peːsʲ,hip,stem,Substantive,Hüfte,M-K 436 b
+1544,peːt,cook,stem,Verb,kochen,"B&V 81b, M&K 437b"
+1545,peːtʲk,Peter,stem,Proper Noun,Peter,_
+1546,pij,_,stem,_,_,_
+1547,pil,to be afraid,stem,Verb,fürchten,_
+1548,pin,put,stem,Verb,legen,_
+1549,pini,put,stem,Verb,stellen,_
+1550,pintl,put down,stem,Verb,hinlegen,_
+1551,pinumt,lay,stem,Verb,legen,
+1552,pinəmt,place,stem,Verb,legen,_
+1553,pirr,call for dogs,stem,Interjection,Hetzruf für Hunde,M-K 441a
+1554,pis,coating,stem,Substantive,Schicht,_
+1555,pisʲ,trick,stem,Substantive,Kniff,
+1556,pitʲi,nest,stem,Substantive,Nest,M-K 444a
+1557,piɣ,_,stem,_,_,_
+1558,piːɣ,boy,stem,Substantive,Knabe,
+1559,podʲːerʒka,[Ru. support],stem,Substantive,[Ru. Unterstützung],_
+1560,podʲːerʒka dʲemokratʲii i prav tɕelovʲeka,[Ru. Support of Democracy and Human Rights],phrase,Proper Noun,[Ru. Unterstützung der Demokratie und Menschenrechte],_
+1561,pojt,_,stem,_,_,_
+1562,pojtəlt,stop,stem,Verb,einstellen,_
+1563,pokmat,break,stem,Verb,aufbrechen,_
+1564,pol,piece,stem,Substantive,Stück,M-K 473a
+1565,polina,Polina,stem,Proper Noun,_,_
+1566,poliwjaw,freeze,stem,Verb,zufrieren,_
+1567,poləm,Pelym,stem,Proper Noun,Pelym,_
+1568,polʲ,freeze,stem,Verb,gefrieren,M-K 451 a
+1569,poniɣt,press down ,stem,Verb,niederdrücken,M-K  455 a
+1570,pora,time,stem,Substantive,Zeit,
+1571,porat,when,stem,Postposition,als,"Munkácsi-Kálmán, ; Balandin/Vahrusheva, 84a"
+1572,poriɣm,jump,stem,Verb,springen,"M&K 458, "
+1573,poriɣpan,frog,stem,Substantive,Frosch,_
+1574,poriɣpaneːkʷa,_,stem,_,_,_
+1575,pormas,things,stem,Substantive,Zeug,M-K 460 a
+1576,porsʲ,die,stem,Verb,sterben,_
+1577,portaŋ,brushwood,stem,Substantive,abgebrochene Äste,_
+1578,porxaj,storm,stem,Substantive,Sturm,_
+1579,porəɣm,_,stem,_,_,_
+1580,pos,milk,stem,Verb,melken,_
+1581,pos,drive,stem,Verb,treiben,_
+1582,pos,light,stem,Substantive,Licht,_
+1583,pos,load,stem,Verb,"drücken, füllen",_
+1584,posʲka,cask,stem,Substantive,Fass,_
+1585,pot,_,stem,_,_,_
+1586,potert,_,stem,_,_,_
+1587,potr,_,stem,_,_,_
+1588,potram,tell,stem,Verb,erzählen,
+1589,potər,tale,stem,Substantive,Erzählung,_
+1590,potərt,tell,stem,Verb,erzählen,_
+1591,potərt,talk,stem,Verb,reden,_
+1592,powar,roll,stem,Verb,rollen,_
+1593,pox,_,stem,_,_,_
+1594,poːiksʲ,pray,stem,Verb,beten,_
+1595,poːit,_,stem,_,_,_
+1596,poːjt,stop,stem,Verb,aufhören,
+1597,poːlʲ,frozen snow,stem,Substantive,Harschschnee,_
+1598,poːri,across,stem,Adverb,quer,_
+1599,poːs,_,stem,_,_,_
+1600,poːstxat,take aim,stem,Verb,zielen,B/V 86a
+1601,poːt,tax,stem,Substantive,Steuer,_
+1602,poːti,breast,stem,Substantive,Brust,_
+1603,poːx,side,stem,Substantive,Seite,_
+1604,poːxan,next to,stem,Adverb,neben,_
+1605,poːxt,cling to,stem,Verb,sich festhalten,M-K 488 b 
+1606,prav,[Ru. right],stem,Substantive,[Ru. Recht],_
+1607,puk,_,stem,_,_,_
+1608,puki,belly,stem,Substantive,Bauch,_
+1609,pul,_,stem,_,_,_
+1610,pulʲiɣ saːɣr,slice,phrase,Verb,zerschneiden,_
+1611,pulʲiɣ=,apart,proclitic,Preverb,zer-,_
+1612,pum,grass,stem,Substantive,Gras,_
+1613,puməsʲ,interesting,stem,Adjective,interessant,munkacsi 476b
+1614,puns,_,stem,_,_,_
+1615,punsital,open,stem,Verb,öffnen,_
+1616,pupakʷe,bear,stem,Substantive,Bär,_
+1617,pupiɣ,idol,stem,Substantive,Götze,_
+1618,pur,bite,stem,Verb,beißen,M-K 483 a
+1619,purxat,bite each other,stem,Verb,sich gegenseitig beißen,_
+1620,pus,healthy,stem,Adjective,gesund,_
+1621,pusen,all,stem,Adjective,alle,_
+1622,pusmalt,heal,stem,Verb,heilen,_
+1623,pusn,everyone,stem,_,alle,_
+1624,pussən,all,stem,Quantifier,alle,_
+1625,pustaɣ,healthy,stem,Adjective,gesund,Balandin 91a
+1626,pusən,_,stem,_,_,_
+1627,put,_,stem,_,_,_
+1628,puuŋ,wealth,stem,Substantive,Reichtum,_
+1629,puw,catch,stem,Verb,fangen,
+1630,puwl,take a bath,stem,Verb,baden,M-K 474 a
+1631,puwtm,push,stem,Verb,stoßen,M-K 489 b
+1632,puwtəm,_,stem,_,_,_
+1633,puxt,dock,stem,Verb,anlegen,_
+1634,puŋk,head,stem,Substantive,Kopf,_
+1635,puŋktot,to be head of,stem,Verb,leiten,_
+1636,puːi,_,stem,_,_,_
+1637,puːi,at the shore,stem,Adverb,_,_
+1638,puːin,far from the river,stem,Adverb,weit vom Fluss,_
+1639,puːjil,from the shore,stem,Adverb,von uferseits,M-K 471 a
+1640,puːl,part,stem,Substantive,Teil,_
+1641,puːmasʲ,_,stem,_,_,MK 476b
+1642,puːmasʲiːpa,thank you,stem,Interjection,Danke,MK 476b
+1643,puːmsʲal,to be interested in,stem,Verb,sich interessieren für,_
+1644,puːməsʲ,interesting,stem,Adjective,interessant,MK 476b
+1645,puːns,open,stem,Verb,öffnen,_
+1646,puːs,_,stem,_,_,_
+1647,puːska,_,stem,_,_,_
+1648,puːsʲka,_,stem,_,_,_
+1649,puːt,kettle,stem,Substantive,Kessel,_
+1650,puːtwaːt,_,stem,_,_,_
+1651,puːtwaːta,cart,stem,Substantive,Fuhrwerk,_
+1652,puːw,_,stem,_,_,_
+1653,pyːsʲka,barrel,stem,Substantive,Fass,_
+1654,pəl,when,stem,Particle,wenn,_
+1655,pəɣ,_,stem,_,_,_
+1656,pʲerʲedaʨ,_,stem,_,_,_
+1657,pʲerʲedaʨa,[Ru. report],stem,Substantive,[Ru. Bericht],russ.
+1658,radʲio,[Ru. radio],stem,Substantive,[Ru. Rundfunk],russ.
+1659,rasʃɨrʲenʲije vozmoʒnostʲej korʲennɨx narodov sʲibʲirʲi v polutɕenʲii obrazovanʲija vɨsokovo urovnʲa,[Ru. Extension of the Possibilities of Indigenous Peoples of Siberia in Obtaining a High Level Education],phrase,Proper Noun,[Ru. Erweiterung der Möglichkeiten der indigenen Völker Sibiriens eine höhere Ausbildung zu erhalten],_
+1660,rasʲsʲiɣ,PEJ,stem,_,PEJ,_
+1661,raup,_,stem,_,_,_
+1662,raw,small piece,stem,Substantive,Stückchen,_
+1663,rawt,break into pieces,stem,Verb,in Stücke zerbrechen,M-K 495 b
+1664,rawtas,break into pieces,stem,Verb,zerstückeln,_
+1665,raɣ,fall,stem,Verb,fallen,_
+1666,raɣat,fall,stem,Verb,fallen,"B&V 91b, M&K 490a"
+1667,raːt,hit,stem,Verb,schlagen,_
+1668,raːtil,hit,stem,Verb,schlagen,_
+1669,raːwp,fall,stem,Verb,fallen,_
+1670,re,_,stem,_,_,_
+1671,reeŋ,_,stem,_,_,_
+1672,rep,_,stem,_,_,_
+1673,rep,_,stem,_,_,_
+1674,reəŋ,_,stem,_,_,_
+1675,reːp,throw,stem,Verb,werfen,
+1676,reːp,give birth,stem,Verb,Eier legen,
+1677,reːpiɣt,throw,stem,Verb,werfen,_
+1678,reːɣəŋ,warm,stem,Adjective,warm,M-K 498 a
+1679,ros,throw,stem,Verb,werfen,_
+1680,rosiɣl,_,stem,_,_,_
+1681,rotm,calm down,stem,Verb,ruhig werden,_
+1682,row,touch,stem,Verb,berühren,_
+1683,roxt,get a fright,stem,Verb,erschrecken,M-K 501b
+1684,roŋx,_,stem,_,_,_
+1685,roːsʲ,sandy shore,stem,Substantive,Sandufer,_
+1686,roːw,_,stem,_,_,_
+1687,roːŋx,shout,stem,Verb,schreien,Munk
+1688,roːŋxaltaxt,scream,stem,Verb,aufschreien,_
+1689,roːŋxuwl,give a cry,stem,Verb,aufschreien,_
+1690,rupata,work,stem,Substantive,Arbeit,_
+1691,rupit,_,stem,_,_,_
+1692,rusʲ,Russian,stem,Adjective,russisch,_
+1693,ruːpit,work,stem,Verb,arbeiten,"Munkácsi-Kálmán, 507a; Balandin/Vahrusheva, 94b; Klemmt/Rekiaro 2006"
+1694,ruːt,kinsfolk,stem,Substantive,Verwandtschaft,_
+1695,saikal,_,stem,_,_,_
+1696,sajt,rod,stem,Verb,Rute,_
+1697,sajt,mind,stem,Substantive,Besinnung,_
+1698,saka,very,stem,Adverb,sehr,"Munkácsi-Kálmán, 517a"
+1699,sakwaːl,_,stem,_,_,_
+1700,sakʷal,break,stem,Verb,zerbrechen,_
+1701,sakʷat,break,stem,Verb,zerbrechen,_
+1702,sale,_,stem,_,_,_
+1703,sam,eye,stem,Substantive,Auge,_
+1704,sampəlʲt,catch sight,stem,Verb,erblicken,_
+1705,sans,_,stem,_,_,_
+1706,sap,stake,stem,Substantive,Pfahl,"M&K 529a, B&V 99b"
+1707,sar,yet,stem,Particle,also,M-K 530 a
+1708,saran oːŋx,resin,phrase,Substantive,Harz,Balandin & Vakhrusheva 100a
+1709,sart,smear,stem,Verb,einschmieren,_
+1710,sart,saw,stem,Verb,sägen,M-K 532b
+1711,sas,both,stem,Pronoun,beide,_
+1712,sas,_,stem,_,_,_
+1713,sat,_,stem,_,_,_
+1714,saw,harm,stem,Substantive,Übel,_
+1715,saw,lazy,stem,Adjective,faul,_
+1716,saw,a lot of,stem,Adverb,viel,"Munkácsi-Kálmán, 537b; Balandin/Vahrusheva, 95a;"
+1717,sawal,suffer,stem,Verb,leiden,"Munkácsi-Kálmán, 537a;"
+1718,sawit,multitude,stem,Substantive,Menge,_
+1719,sawsər,different,stem,Adjective,verschieden,
+1720,saxi,fur coat,stem,Substantive,Pelzmantel,_
+1721,saŋkamt,direct to the right way,stem,Verb,auf den rechten Weg bringen,_
+1722,saŋxas,kick,stem,Verb,treten,_
+1723,saŋxw,push,stem,Verb,stoßen,
+1724,saŋxwas,_,stem,Verb,_,_
+1725,saŋxwxat,writhe,stem,Verb,zucken,_
+1726,saɣr,_,stem,_,_,_
+1727,saɣrap,_,stem,_,_,_
+1728,saɣril,chop,stem,Verb,schneiden,_
+1729,saːikataxt,become.sober,stem,Verb,nüchtern.werden,_
+1730,saːj,shady side,stem,Substantive,Schattenseite,B&V 96b
+1731,saːjkal,wake up,stem,Verb,aufwachen,B/V 96b
+1732,saːkʷal,_,stem,_,_,_
+1733,saːli,reindeer,stem,Substantive,Rentier,M-K 519b
+1734,saːli uːj,wolf,phrase,Proper Noun,Wolf,_
+1735,saːlʲ,mercy,stem,Substantive,Mitleid,_
+1736,saːm,corner,stem,Substantive,Ecke,"M&K 523b, B&V 98b"
+1737,saːmt,bend sth. into angles,stem,Verb,eckig falten,_
+1738,saːns,knee,stem,Substantive,Knie,
+1739,saːrt,before,stem,Particle,zuerst,_
+1740,saːs,birchbark,stem,Substantive,Birkenrinde,_
+1741,saːt,create,stem,Verb,schaffen,_
+1742,saːt,seven,stem,Cardinal numeral,sieben,
+1743,saːtit,seventh,stem,Ordinal numeral,siebter,_
+1744,saːtən,seven of them,stem,Adverb,"(unser, euer, ihrer) sieben",_
+1745,saːw,much,stem,Quantifier,viel,_
+1746,saːwsir,_,stem,_,_,_
+1747,saːxi,_,stem,_,_,_
+1748,saːŋxʷas,little birch bowl,stem,Substantive,kleine Schale aus Birkenrinde,_
+1749,saːŋxʷasaxt,_,stem,_,_,_
+1750,saːɣl,split,stem,Verb,spalten,_
+1751,saːɣr,chop,stem,Verb,hacken,
+1752,saːɣrap,chop,stem,Verb,hacken,_
+1753,saːɣrap,axe,stem,Substantive,Axt,B&V 96
+1754,seməl,_,stem,_,_,_
+1755,seːməl,black,stem,Adjective,schwarz,_
+1756,seːt,tear oneself away,stem,Verb,loskommen,_
+1757,seːŋkʷ,fog,stem,Substantive,Nebel,_
+1758,sil,cut open,stem,Verb,aufschneiden (der Länge nach),_
+1759,silka,banished,stem,Adjective,verbannt,_
+1760,silt,cut,stem,Verb,schneiden,_
+1761,silt,_,stem,_,_,_
+1762,simri,_,stem,_,_,_
+1763,siməŋ,warm-hearted,stem,Adjective,herzlich,M
+1764,sipiɣ,_,stem,_,_,_
+1765,sipiɣlaxt,_,stem,_,_,_
+1766,sipluw,neck,stem,Substantive,Hals,"B&V 103b, M&K 548a"
+1767,sipəɣlaxt,embrace each other,stem,Verb,einander umarmen,_
+1768,sipɣ,_,stem,_,_,_
+1769,sir,manner,stem,Substantive,Art.und.Weise,_
+1770,sir,roof.beam,stem,Substantive,Dachstange,_
+1771,siraj,sword,stem,Substantive,Schwert,M-K 550 b
+1772,siretsir,various,stem,Adjective,unterschiedlich,_
+1773,sirje sir,diverse,stem,Adjective,verschiedenartig,M&K 549b
+1774,sis,during,stem,Postposition,_,_
+1775,sis,back,stem,Substantive,Rücken,
+1776,sisi,back,stem,Adverb,zurück,M&K 551b
+1777,sispaːl,behind,phrase,Postposition,hinter,_
+1778,sitam,solitary,stem,Adjective,einsam,_
+1779,sitam,quiet,stem,Adjective,still,_
+1780,siŋss,sideboards of bed,stem,Substantive,Seitenbrett der Schlafpritsche,_
+1781,siŋəs,_,stem,Substantive,Sitzplätze in der Jurte bei den Schlafalkoven und beim Ofen,_
+1782,siɣp,steep,stem,Adjective,steil,_
+1783,skrʲibnʲik,Skribnik,stem,Proper Noun,Skribnik,_
+1784,slovarʲ,[Ru. dictionary],stem,Substantive,[Ru. Wörterbuch],_
+1785,slovarʲ neːpak,dictionary,phrase,Substantive,Wörterbuch,_
+1786,soj,peaceful,stem,Adjective,friedlich,_
+1787,solkʷaːlɣ,belly strap,stem,Substantive,Bauchriemen,_
+1788,solovar,Solovar,stem,Proper Noun,Solovar,_
+1789,soma,just,stem,Adverb,gerade,M&K 559a
+1790,somri,perch,stem,Substantive,Barsch,_
+1791,sop,_,stem,_,_,_
+1792,sop nʲelmtal,without a word,phrase,Adverb,wortlos,_
+1793,sor,barrel,stem,Substantive,Schaft,_
+1794,soram,death,stem,Substantive,Tod,_
+1795,sort,pike,stem,Substantive,Hecht,M-K 564 a
+1796,sorum,_,stem,_,_,_
+1797,sorɣ,belly,stem,Substantive,Bauch,_
+1798,sossa,homeland,stem,Substantive,Heimat,B&V 107a
+1799,sossa,local,stem,Adjective,hiesig,M-K 566 a
+1800,sossaŋ,local,stem,Adjective,örtlich,_
+1801,sotəŋəsʲ,happy,stem,Adjective,glücklich,_
+1802,sow,pelt,stem,Substantive,Fell,_
+1803,soxrip,entrance hall,stem,Substantive,Vorhof,_
+1804,soːlʲ,really,stem,Adverb,tatsächlich,_
+1805,soːp,_,stem,_,_,_
+1806,soːpak,boots,stem,Substantive,Stiefel,_
+1807,soːrnʲ,gold,stem,Substantive,Gold,_
+1808,soːs,pour,stem,Verb,gießen,_
+1809,soːsxat,flow,stem,Verb,fließen,_
+1810,soːt,luck,stem,Substantive,Glück,_
+1811,soːw,_,stem,_,_,_
+1812,soːwər,hare,stem,Substantive,Hase,"MK 569, BalVakh 105"
+1813,starʃina,[Ru. foreman],stem,Substantive,[Ru. Oberhaupt],_
+1814,stepan,Stepan,stem,Proper Noun,Stepan,_
+1815,suit,_,stem,_,_,_
+1816,suitiɣl,_,stem,_,_,_
+1817,suj,fame,stem,Substantive,Ruhm,_
+1818,suj,noise,stem,Substantive,Geräusch,_
+1819,sujpil,_,stem,_,_,_
+1820,sujt,to be heard,stem,Verb,hörbar sein,_
+1821,sujtiɣl,sound,stem,Verb,erklingen,_
+1822,sujtəɣl,_,stem,_,_,_
+1823,sulint,_,stem,_,_,_
+1824,sulinti,_,stem,_,_,_
+1825,sultm,spark,stem,Substantive,Funke,_
+1826,sultum,_,stem,_,_,_
+1827,sulʲɣ,fall,stem,Verb,fallen,B&V 108a
+1828,sulʲɣalt,sprinkle,stem,Verb,streuen,M/K 572a
+1829,sun,sledge,stem,Substantive,Schlitten,_
+1830,suns,_,stem,_,_,_
+1831,sunseːln,_,stem,_,_,_
+1832,sunsiɣl,rubberneck,stem,Verb,herumschauen,M&K 576
+1833,sunsəɣl,examine,stem,Verb,prüfen,_
+1834,sunsəɣlə,look at,stem,Transitive verb,betrachten,_
+1835,sunt,_,stem,_,_,_
+1836,sunta,_,stem,_,_,_
+1837,sup saɣrap,_,phrase,_,_,_
+1838,supiɣ,sturgeon,stem,Substantive,Stör,_
+1839,supiɣ saːɣl,split in pieces,phrase,Verb,entzwei spalten,_
+1840,supiɣ saːɣrap,cut through,phrase,Verb,durchschneiden,_
+1841,supiɣ=,into pieces,proclitic,Preverb,zer-,_
+1842,supəɣ jakt,cut in pieces,phrase,Verb,entzwei schneiden,_
+1843,supəɣ junit,hit into pieces,phrase,Verb,in Stücke schlagen,_
+1844,supəɣ juniɣt,_,phrase,_,_,_
+1845,supəɣ junəɣt,_,phrase,_,_,_
+1846,supəɣ saɣr,slice,phrase,Verb,zerschneiden,_
+1847,supəɣ=,_,proclitic,_,_,_
+1848,sus,watch,stem,Verb,_,_
+1849,sussilt,show,stem,Verb,zeigen,_
+1850,sut,judge,stem,Substantive,Gericht,_
+1851,sutint,sentence,stem,Verb,verurteilen,_
+1852,suw,stick,stem,Substantive,Stab,_
+1853,suːjpil,lingonberry,stem,Substantive,Preiselbeere,_
+1854,suːl,bark,stem,Substantive,Rinde,"M&K 571a, B&V 108a"
+1855,suːlint,gallop,stem,Verb,galoppieren,_
+1856,suːlət,climb up,stem,Verb,hinaufklettern,B&V 108a - нестись
+1857,suːns,see,stem,Verb,sehen,_
+1858,suːnt,opening,stem,Substantive,Spalte,_
+1859,suːp,mouth,stem,Substantive,Mund,_
+1860,suːpas,mouth opening,phrase,Substantive,Mundöffnung,_
+1861,suːr,woodworm,stem,Substantive,Holzwurm,_
+1862,suːs,pass to another herd,stem,Verb,_,_
+1863,svʲazʲ,[Ru. communication],stem,Substantive,[Ru. Kommunikation],russ.
+1864,sʲaj,tea,stem,Substantive,Tee,"Munkácsi-Kálmán, 584b"
+1865,sʲak,_,stem,_,_,_
+1866,sʲakwit,milk,phrase,Substantive,Milch,_
+1867,sʲakʷ,fireflood,stem,Substantive,Feuerflut,_
+1868,sʲakʷ,udder,stem,Substantive,Euter,_
+1869,sʲakʷit,_,stem,_,_,_
+1870,sʲalatal,enter,stem,Verb,eintreten,_
+1871,sʲalt,enter,stem,Verb,eintreten,"Munkácsi-Kálmán, 587a; "
+1872,sʲaltap,enter,stem,Verb,eintreten,"B&V 112b, M&K 587a"
+1873,sʲaltaːp,_,stem,_,_,_
+1874,sʲaltep,_,stem,_,_,_
+1875,sʲalts,_,stem,_,_,_
+1876,sʲam raɣat,to fall to death,phrase,Verb,zu Tode stürzen,_
+1877,sʲam=,to death,proclitic,Preverb,tot-,_
+1878,sʲama al,kill,phrase,Verb,töten,_
+1879,sʲama junit,strike dead,phrase,Verb,totschlagen,_
+1880,sʲama juniɣt,_,phrase,_,_,_
+1881,sʲama junəɣt,_,phrase,_,_,_
+1882,sʲama pur,bite to death,phrase,Verb,totbeißen,_
+1883,sʲama=,_,proclitic,Preverb,_,_
+1884,sʲan,_,stem,_,_,_
+1885,sʲanʲ,mother,stem,Substantive,Mutter,
+1886,sʲar,smoulder,stem,Verb,schwelen,M-K 588b
+1887,sʲar,whole,stem,Particle,ganz,_
+1888,sʲaras,burn,stem,Verb,brennen,_
+1889,sʲarasʲ,_,stem,_,_,_
+1890,sʲarktaxt,squeak,stem,Verb,piepsen,"B&V 590, B&V 113"
+1891,sʲarsʲ,_,stem,_,_,_
+1892,sʲarək,reindeer meadow including herd,stem,Substantive,Rentierweide samt Rentierherde,M-K 589 b
+1893,sʲarəsʲ,_,stem,_,_,_
+1894,sʲaskan,shawl,stem,Substantive,Tuch,_
+1895,sʲaxəl,hillock,stem,Substantive,runder Haufen,
+1896,sʲaːi,_,stem,_,_,_
+1897,sʲaːj,_,stem,_,_,_
+1898,sʲaːliɣ,pure,stem,Adjective,rein,_
+1899,sʲaːnʲ,_,stem,_,_,_
+1900,sʲaːrəsʲ,sea,stem,Substantive,Meer,
+1901,sʲaːɣt,to be glad,stem,Verb,sich freuen,_
+1902,sʲekov,Sʲekov,stem,Proper Noun,Sʲekov,_
+1903,sʲelt,_,stem,_,_,_
+1904,sʲeltut,_,stem,_,_,_
+1905,sʲergʲej,Sergey,stem,Proper Noun,Sergei,_
+1906,sʲeːlt,throw,stem,Verb,werfen,_
+1907,sʲeːltamt,throw,stem,Verb,werfen,_
+1908,sʲeːp,pocket,stem,Substantive,Tasche,_
+1909,sʲimsʲak,earring,stem,Substantive,Ohrring,_
+1910,sʲipɣ,embrace,stem,Verb,umarmen,_
+1911,sʲira,gull,stem,Substantive,Möwe,_
+1912,sʲisɣ,shriek,stem,Verb,kreischen,_
+1913,sʲol,force,stem,Substantive,Kraft,M-K 598a
+1914,sʲopit,_,stem,_,_,_
+1915,sʲopitaxt,_,stem,_,_,_
+1916,sʲopər,capercaillie,stem,Substantive,Auerhuhn,_
+1917,sʲopər,fine,stem,Adjective,fein,M&K 600a
+1918,sʲor,dirty,stem,Verb,beschmutzen,_
+1919,sʲos,times,stem,Particle,-mal,M-K 603a
+1920,sʲowal,hearth,stem,Substantive,Tschuwal,_
+1921,sʲoxləŋ,need,stem,Substantive,Not,_
+1922,sʲoxri,"slender, sharp, hard knife",stem,Substantive,"schmales, spitzes, hartes Messer",
+1923,sʲoːlʲsʲi,ermine,stem,Substantive,Hermelin,_
+1924,sʲoːnax,dipper ,stem,Substantive,Schöpfkelle,M&K 599b
+1925,sʲoːpit,prepare,stem,Verb,vorbereiten,
+1926,sʲoːpitaxt,pack up one's things,stem,Verb,seine Sachen zusammenpacken,Balandin/Vakhrusheva 1958
+1927,sʲoːs,while,stem,Particle,während,_
+1928,sʲulʲalass,look,stem,Verb,blicken,_
+1929,sʲun,_,stem,_,_,_
+1930,sʲunʲ,live happily,stem,Verb,glücklich leben,_
+1931,sʲunʲ,wealth,stem,Substantive,Fülle,_
+1932,sʲurat,cut,stem,Verb,schneiden,M&K 607
+1933,sʲuːn,_,stem,_,_,_
+1934,ta,EMPH1,stem,Particle,EMPH1,_
+1935,ta,that,stem,Distal Demonstrative,"jene,r,s",_
+1936,ta janit,of such a size,phrase,Adjective,von einer solchen Größe,_
+1937,ta kona,outside,phrase,Adverb,hinaus,_
+1938,ta konipal,even more,phrase,Adjective,noch,_
+1939,ta kos,in vain,phrase,Adverb,umsonst,_
+1940,ta xolʲt,so,phrase,Adverb,so,_
+1941,ta xurip,such,phrase,Demonstrative,"solche,r,s",_
+1942,tai,_,stem,_,_,_
+1943,tai maɣəs,because of that,phrase,Adverb,deswegen,_
+1944,taj,be suitable,stem,Verb,geeignet sein,_
+1945,taj,that,stem,Pronoun,jener,_
+1946,taj,yet,stem,Particle,doch,B&V 114b
+1947,takem,so,stem,Particle,_,_
+1948,takeːm,as,stem,Particle,_,_
+1949,takket,_,stem,_,_,_
+1950,takketə,_,stem,_,_,_
+1951,takkeːt,alone,stem,Adverb,allein,_
+1952,taksʲ,strongly,stem,Adverb,stark,"M&K 618a, B/V 115b"
+1953,takwi,_,stem,_,_,_
+1954,takəsʲ,tightly,stem,Adverb,streng,_
+1955,takʷet,_,stem,_,_,_
+1956,takʷi,3SG,stem,Emphatic personal pronoun,3SG,
+1957,takʷsi,_,stem,_,_,_
+1958,takʷsi palit,in autumn,phrase,Adverb,im Herbst,_
+1959,takʷsə,in autumn,stem,Adverb,im Herbst,M-K 619 b
+1960,takʷəs,autumn,stem,Substantive,Herbst,
+1961,tal,_,stem,_,_,
+1962,tal,_,stem,_,_,_
+1963,talkan,place to sleep made of pine-needles,stem,Substantive,Schlafplatz aus Tannenzweigen,_
+1964,talt,put on a sledge,stem,Verb,auf einen Schlitten setzen,M-K 622 b
+1965,taltxat,load,stem,Verb,beladen,_
+1966,talʲax,tree edge,stem,Substantive,Wipfel,_
+1967,talʲix,top,stem,Substantive,Spitze,"M&K 623, B&V 116"
+1968,tam,_,stem,_,_,_
+1969,tamara,Tamara,stem,Proper Noun,Tamara,_
+1970,tame,not,stem,Particle,nicht,_
+1971,tamle,_,stem,_,_,_
+1972,tamlʲe,such,stem,Adjective,solcher,
+1973,tamlʲeŋ,_,stem,_,_,_
+1974,tanki,_,stem,_,_,_
+1975,tapos sunt,Tapos-Sunt,stem,Proper Noun,Tapos-Sunt,_
+1976,tara,through,stem,Postposition,durch,_
+1977,tara min,go across,phrase,Verb,entlanggehen,_
+1978,tara=,through,proclitic,Preverb,durch,_
+1979,tarat,_,stem,_,_,_
+1980,taratal,let out,stem,Verb,auslassen,_
+1981,tarm,on,stem,Postposition,auf,_
+1982,tarmat,leap up,stem,Verb,aufspringen,"B&V 117, M&K 629"
+1983,tarməl,on,stem,Postposition,auf,_
+1984,tarwitəŋ,heavy,stem,Adjective,schwer,M&K 633a
+1985,tat,_,stem,_,_,_
+1986,tau,_,stem,_,_,_
+1987,taw,3SG,stem,Personal pronoun,3SG,_
+1988,taw,ah,stem,Interjection,ei,_
+1989,tawe,3SG.OBL,stem,Personal pronoun,3SG.OBL,_
+1990,tawen,_,stem,_,_,_
+1991,tax,disappear,stem,Verb,verschwinden,B&V 118
+1992,tax,maybe,stem,Adverb,vielleicht,_
+1993,tax,so,stem,Adverb,so,_
+1994,taxamt,slide,stem,Verb,gleiten,_
+1995,taxaːmt,_,stem,_,_,_
+1996,taxmaj,_,stem,_,_,_
+1997,taŋki,_,stem,_,_,_
+1998,taŋkʷit,be covered by algae,stem,Verb,mit Algen bewachsen werden,_
+1999,taŋx,_,stem,_,_,_
+2000,taŋərmat,push,stem,Verb,drücken,"B&V116b, M&K 626b"
+2001,taŋɣ,_,stem,_,_,_
+2002,taɣat,hang up,stem,Verb,aufhängen,_
+2003,taɣint,_,stem,_,_,_
+2004,taɣl,completely,stem,Adverb,völlig,_
+2005,taɣla,_,stem,_,_,_
+2006,taɣle,_,stem,_,_,_
+2007,taɣmat,hang up,stem,Verb,aufhängen,_
+2008,taɣt,Sosva,stem,Proper Noun,Soswa,_
+2009,taɣəl,cover,stem,Substantive,Deckel,_
+2010,taɣəl,COM,particle,Particle,COM,_
+2011,taɣənt,fill,stem,Verb,voll werden,M/K 614 a
+2012,taː,_,stem,_,_,_
+2013,taːji,_,stem,_,_,_
+2014,taːksʲ,_,stem,_,_,_
+2015,taːkʷe,_,stem,_,_,_
+2016,taːl,winter,stem,Substantive,Winter,"Munkácsi-Kálmán, 621a"
+2017,taːl,branch,stem,Substantive,Ast,
+2018,taːl,brush-wood,stem,Substantive,Reisig,_
+2019,taːl,get on,stem,Verb,aufsteigen,
+2020,taːlmat,get on a boat,stem,Verb,ins Boot steigen,_
+2021,taːlt,harbour,stem,Substantive,Hafen,_
+2022,taːn,3PL,stem,Personal pronoun,3PL,_
+2023,taːnanəl,3PL.OBL,stem,Personal pronoun,3PL.OBL,_
+2024,taːnki,3PL,stem,Emphatic personal pronoun,3PL,_
+2025,taːntʲi,_,stem,_,_,_
+2026,taːra,_,stem,_,_,_
+2027,taːra min,_,phrase,_,_,_
+2028,taːra patt,get to know,phrase,Verb,erfahren,_
+2029,taːra=,through,proclitic,Preverb,durch,M/K 628
+2030,taːrat,let,stem,Verb,lassen,
+2031,taːrmat,_,stem,_,_,_
+2032,taːrtal,_,stem,_,_,_
+2033,taːwen,3SG.DLAT,stem,Personal pronoun,3SG.DLAT,_
+2034,taːxit,_,stem,_,_,_
+2035,taːxt,black-throated loon,stem,Substantive,Polartaucher,_
+2036,taːŋx,want,stem,Verb,wollen,
+2037,taːɣint,fill,stem,Verb,sich füllen,_
+2038,taːɣle,_,stem,_,_,_
+2039,taːɣt,_,stem,_,_,_
+2040,taːɣəl,_,stem,_,_,_
+2041,te,_,stem,_,_,_
+2042,tel,certainly,stem,Adverb,sicherlich,_
+2043,tel,_,stem,_,_,_
+2044,ten,_,stem,_,_,_
+2045,texam,hey,stem,Interjection,hei mein Freund,_
+2046,teŋki,_,stem,_,_,_
+2047,teɣ,_,stem,_,_,_
+2048,teɣ,_,stem,_,_,_
+2049,teː,what?,stem,Interjection,was?,_
+2050,teːl,grow,stem,Verb,wachsen,"M&K 640b; B/V, 127a;"
+2051,teːla,_,stem,_,_,_
+2052,teːlaː,thing,stem,Substantive,Angelegenheit,_
+2053,teːn,3DU,stem,Personal pronoun,3DU,_
+2054,teːnki,3DU,stem,Emphatic personal pronoun,3DU,_
+2055,teːnut,food,stem,Substantive,Essen,_
+2056,teːp,food,stem,Substantive,Speise,M-K 
+2057,teːrpij,bait,stem,Substantive,Köder,_
+2058,teːtiɣl,_,stem,_,_,_
+2059,teːxam,_,stem,_,_,_
+2060,teːɣ,_,stem,_,_,_
+2061,teːɣ,_,stem,_,_,_
+2062,teːɣ,eat,stem,Verb,essen,M-K 636 b
+2063,ti,EMPH2,stem,Particle,EMPH2,_
+2064,ti,look,stem,Particle,sieh,_
+2065,ti,this,stem,Proximal Demonstrative,"diese,r,s",
+2066,tii,_,stem,_,_,_
+2067,tij,this,stem,Proximal Demonstrative,"diese,r,s",_
+2068,tiji,this,stem,Proximal Demonstrative,dies,_
+2069,tijt,_,stem,_,_,_
+2070,tikem,_,stem,_,_,_
+2071,tikeːm,such,stem,Proximal Demonstrative,solcher,K
+2072,tilamtapt,let fly,stem,Verb,fliegen lassen,_
+2073,timos,meanwhile,stem,Adverb,inzwischen,"mus > B&V 58b, M&K 322a"
+2074,tinal,sell,stem,Verb,verkaufen,_
+2075,tintl,curry the leather,stem,Verb,Leder bearbeiten,_
+2076,tinəŋ,expensive,stem,Adjective,teuer,
+2077,tip,lose one's way,stem,Verb,sich verirren,_
+2078,tir,sacrificial tree,stem,Substantive,Baum auf dem Opferplatz,_
+2079,tist,mourn,stem,Verb,trauern,_
+2080,tit,get wet,stem,Verb,nass werden,_
+2081,tit,tree trunk,stem,Substantive,Baumstamm,_
+2082,tit,here,stem,Adverb,hier,
+2083,titti,_,stem,_,_,_
+2084,tiws,_,stem,_,_,_
+2085,tiws,enough,stem,Interjection,Schluss,_
+2086,tiɣ,hither,stem,Adverb,hierhin,_
+2087,tiɣil,_,stem,_,_,_
+2088,tiɣl,_,stem,_,_,_
+2089,tiɣlʲe,(to) here,stem,Adverb,her,M
+2090,tiɣlʲe tuwlʲe,back and forth,phrase,Adverb,hin und her,"M&K, 679a"
+2091,tiɣəl,from here,stem,Adverb,von hier,Munk
+2092,tiː,_,stem,_,_,_
+2093,tiːwərt,_,stem,Postposition,_,"M&K 217a, V&B 37b"
+2094,tol,_,stem,_,_,_
+2095,toliɣ,_,stem,_,_,_
+2096,tolmasʲl,translate,stem,Verb,übersetzen,_
+2097,tolt,melt,stem,Verb,schmelzen,_
+2098,tolɣ,fishing net,stem,Substantive,Zugnetz zum Fischen,M-K 652b
+2099,tolɣ,fish with a fishing net,stem,Verb,mit Zuggarn fischen,_
+2100,tona,therefore,stem,Particle,darum,_
+2101,top,just,stem,Adverb,nur,B&V 121b
+2102,tor,linen cloth,stem,Substantive,Leinwand,_
+2103,toriɣ,to,stem,Postposition,zu,_
+2104,torum,_,stem,_,_,_
+2105,torɣamt,to understand,stem,Verb,verstehen,_
+2106,torɣen,thoroughly,stem,Adverb,gründlich,_
+2107,tot,get,stem,Verb,holen,_
+2108,tot,there,stem,Adverb,dort,"Munkácsi-Kálmán, 664b; Balandin/Vahrusheva, 123a"
+2109,totil,bring,stem,Verb,bringen,_
+2110,totiɣl,_,stem,_,_,_
+2111,totəɣl,bring,stem,Verb,bringen,_
+2112,tou,_,stem,_,_,_
+2113,toul,_,stem,_,_,_
+2114,tow,paddle,stem,Verb,rudern,_
+2115,towil,diverge,stem,Verb,sich verzweigen,_
+2116,towip,branch,stem,Substantive,Verzweigung,_
+2117,towl,wing,stem,Substantive,Flügel,"Munkácsi-Kálmán, 668a; Balandin/Vahrusheva, 121a"
+2118,towl,_,stem,_,_,_
+2119,towlʲ,leather,stem,Substantive,Leder,_
+2120,towt,to transport by boat,stem,Verb,mit einem Boot befördern,_
+2121,tox,so,stem,Particle,so,
+2122,toxalʲiŋ,so,stem,Particle,so,_
+2123,toxaŋk,thus,stem,Interjection,so,_
+2124,toxr,squeeze into,stem,Verb,reinstopfen,_
+2125,toːlmat,break,stem,Verb,zerbrechen,M&K 653a
+2126,toːn,that,stem,Determiner,dieser,_
+2127,toːnt,then,stem,Particle,dann,_
+2128,toːp,_,stem,_,_,_
+2129,toːpm,rot,stem,Verb,verfaulen,_
+2130,toːrew,bear,stem,Substantive,Bär,M-K 662a
+2131,toːrum,_,stem,_,_,_
+2132,toːrəm,sky,stem,Substantive,Himmel,_
+2133,toːrəm,God,stem,Proper Noun,Gott,_
+2134,toːwa,some,stem,Quantifier,einige,_
+2135,toːwart,lock,stem,Verb,einsperren,_
+2136,toːwl,fill,stem,Verb,voll werden,"M&K 668b, B/V 120b"
+2137,toːwt,chew,stem,Verb,kauen,M/K 669b
+2138,tuja,_,stem,_,_,_
+2139,tuji,summer,stem,Substantive,Sommer,M-K 673 b
+2140,tujt,_,stem,_,_,_
+2141,tujtip,_,stem,_,_,_
+2142,tujtxat,_,stem,_,_,_
+2143,tulmax,_,stem,_,_,_
+2144,tunra,tundra,stem,Substantive,Tundra,"Munkácsi-Kálmán, 680a"
+2145,tup,_,stem,_,_,_
+2146,tur,throat,stem,Substantive,Kehle,_
+2147,tur-suj,_,stem,_,_,_
+2148,turej,white-tailed eagle,stem,Substantive,weißer Adler,M-K 684b
+2149,turman,dark,stem,Adjective,finster,_
+2150,turmanl,darken,stem,Verb,finster werden,M-K 684a
+2151,tursuj,voice,stem,Substantive,Stimme,"tur-suj: Munkácsi-Kálmán, 683a; турсуй: Balandin/Vahrusheva, 126a;"
+2152,tus,moustache,stem,Substantive,Schnurrbart,_
+2153,tusʲt,_,stem,_,_,_
+2154,tuw,pile,stem,Substantive,Faser,_
+2155,tuw,there,stem,Adverb,hin,_
+2156,tuwl,_,stem,_,_,_
+2157,tuwle,_,stem,_,_,_
+2158,tuwlʲe,there,stem,Demonstrative,dorthin,
+2159,tuwlʲe,there,stem,Particle,dorthin,_
+2160,tuwəl,thence,stem,Demonstrative,von.dort,_
+2161,tuːit,_,stem,_,_,_
+2162,tuːja,spring,stem,Substantive,Frühling,
+2163,tuːjt,hide,stem,Verb,verbergen,"Munkácsi-Kálmán, 675a; Balandin/Vahrusheva, 125a"
+2164,tuːjt,snow,stem,Substantive,Schnee,_
+2165,tuːjtip,abruptly hide,stem,Verb,plötzlich verbergen,
+2166,tuːjtiɣlaːsl,hide,stem,Verb,_,_
+2167,tuːjtxat,hide,stem,Verb,sich verbergen,
+2168,tuːl,bring,stem,Verb,bringen,"B&V 125b, M&K 677b"
+2169,tuːlmax,wolverine,stem,Substantive,Vielfraß,B&V 125b
+2170,tuːltxat,begin,stem,Verb,anfangen,_
+2171,tuːlʲam,Tulyam,stem,Proper Noun,Tuljam,_
+2172,tuːlʲam urəŋ ojka,Old man from the Tulyam Mountain,phrase,Proper Noun,Der Alte vom Tuljam Gebirge,_
+2173,tuːp,oar,stem,Substantive,Ruder,"B&V 126a, M&K 681b"
+2174,tuːp,only just,stem,Adverb,kaum,"&V 126a, M&K 682a"
+2175,tuːr,lake,stem,Substantive,See,_
+2176,tuːsʲt,place,stem,Verb,stellen,_
+2177,tuːsʲtiɣp,set up,stem,Verb,aufstellen,_
+2178,tuːwəl,_,stem,_,_,_
+2179,tɕelovʲeka,[Ru. human.GEN],stem,Substantive,[Ru.  Mensch.GEN],_
+2180,təɣ,_,stem,_,_,_
+2181,təɣlaml,fly,stem,Verb,fliegen,_
+2182,təɣle,_,stem,_,_,_
+2183,təɣli,_,stem,_,_,_
+2184,tʲe,_,particle,_,_,_
+2185,tʲelʲevʲidʲenʲija,[Ru. television],stem,Substantive,[Ru. Fernsehen],russ.
+2186,tʲelʲevʲidʲenʲije,_,stem,_,_,_
+2187,tʲelʲevʲizor,[Ru. television],stem,Substantive,[Ru. Fernseher],russ.
+2188,tʲexnʲika,[Ru. technology],stem,Substantive,[Ru. Technik],russ.
+2189,tʲeːlp,_,stem,_,_,_
+2190,tʲeːr,_,stem,_,_,_
+2191,tʲins,_,stem,_,_,_
+2192,tʲisxat,_,stem,_,_,_
+2193,tʲittəɣ,_,stem,_,_,_
+2194,tʲiːwr,_,stem,_,_,_
+2195,tʲiːwərn,_,stem,_,_,_
+2196,ugrovʲedʲenʲija,[Ru. Ugristics],stem,Substantive,[Ru. Ugristik],_
+2197,uj,_,stem,_,_,_
+2198,uj xul,animal,phrase,Substantive,Tier,_
+2199,ujməɣt,swim,stem,Verb,schwimmen,_
+2200,ujtxat,dive down,stem,Verb,untertauchen,_
+2201,ul,IMP.NEG,stem,Negation Particle,IMP.NEG,_
+2202,ul,of course,stem,Particle,natürlich,_
+2203,ula,_,stem,_,_,_
+2204,ulpə,siberian pine,stem,Substantive,Zirbelkiefer,_
+2205,ulta,_,stem,_,_,_
+2206,ulta jom,walk through,phrase,Verb,hindurch gehen,_
+2207,ulta min,go through,phrase,Verb,hindurch gehen,_
+2208,ulta=,across,proclitic,Preverb,hindurch,_
+2209,ulʲa,fire,stem,Substantive,Feuer,_
+2210,ulʲiw,_,stem,_,_,_
+2211,ulʲjiw,_,stem,_,_,_
+2212,ulʲuw,firewood,stem,Substantive,Brennholz,_
+2213,unl,_,stem,_,_,_
+2214,unt,sit down,stem,Verb,sich setzen,_
+2215,unt,forest,stem,Substantive,Wald,_
+2216,untmit,(signs for marking the) path,stem,Substantive,"Wegzeichen, Weg",_
+2217,untt,_,stem,_,_,_
+2218,unʲivʲersʲitʲet,[Ru. university],stem,Substantive,[Ru. Universität],_
+2219,up,brother-in-law,stem,Substantive,Schwieger,_
+2220,ur,manner,stem,Substantive,Art,_
+2221,ur,mountain,stem,Substantive,Berg,_
+2222,uralʲistʲika,[Ru. uralistics],stem,Substantive,[Ru. Uralistik],_
+2223,uram,ridge,stem,Substantive,Bergrücken,_
+2224,urim,lean,stem,Adjective,mager,_
+2225,urt,portion,stem,Substantive,Anteil,_
+2226,urəl,about,stem,Postposition,über,_
+2227,us,die,stem,Verb,sterben,_
+2228,usaŋ,_,stem,_,_,_
+2229,usaŋ oter ojka,_,phrase,_,_,_
+2230,usaŋ otər ojka,_,phrase,_,_,_
+2231,usəŋ,_,stem,_,_,_
+2232,usəŋ oter ojka,_,phrase,_,_,_
+2233,usʲ,now,stem,Adverb,jetzt,_
+2234,usʲpilneːɣ,especially,stem,Adverb,besonders,_
+2235,ut,bark,stem,Verb,bellen,_
+2236,ut,_,stem,_,_,_
+2237,ut,thing,stem,Substantive,Ding,_
+2238,utɕonɨj,[Ru. scholar],stem,Substantive,[Ru. Wissenschaftler],_
+2239,uːj,animal,stem,Substantive,Tier,_
+2240,uːlam,dress,stem,Substantive,Bekleidung,_
+2241,uːlm,_,stem,_,_,_
+2242,uːltta,through,stem,Postposition,hindurch,_
+2243,uːləm,sleep,stem,Substantive,Schlaf,_
+2244,uːmpi,scoop,stem,Substantive,Kelle,_
+2245,uːmpi sup,small spoon,phrase,Substantive,Löffelchen,_
+2246,uːnl,sit,stem,Verb,sitzen,_
+2247,uːnt,sit down,stem,Verb,sich setzen,_
+2248,uːntt,place,stem,Verb,stellen,_
+2249,uːntt,build,stem,Verb,zimmern,_
+2250,uːr,herd,stem,Verb,hüten,_
+2251,uːrel,watch,stem,Verb,hüten,_
+2252,uːrmiɣt,hold,stem,Verb,halten,_
+2253,uːrxat,wait,stem,Verb,warten,_
+2254,uːs,city,stem,Substantive,Stadt,_
+2255,uːsliɣt,threaten,stem,Verb,drohen,_
+2256,uːsəŋ,fenced in,stem,Adjective,eingezäunt,_
+2257,uːsəŋ oːtər oːjka,Prince of the town,phrase,Proper Noun,Stadtfürst,_
+2258,uːt,bark,stem,Verb,_,_
+2259,uːt,_,stem,_,_,_
+2260,valʲentʲina,Valentina,stem,Proper Noun,Valentina,_
+2261,veber,Weber,stem,Proper Noun,Weber,_
+2262,vengr,[Ru. Hungarian],stem,Adjective,[Ru. Ungar],_
+2263,vʲengʲerskʲij,[Ru. Hungarian],stem,Adjective,[Ru. ungarisch],_
+2264,waps,_,stem,_,_,_
+2265,war,_,stem,_,_,_
+2266,warim,_,stem,_,_,_
+2267,warmalʲ,_,stem,_,_,_
+2268,warxat,_,stem,_,_,_
+2269,was,_,stem,_,_,_
+2270,waseɣ,_,stem,_,_,_
+2271,wassəɣ,_,stem,_,_,_
+2272,wasəɣ,_,stem,_,_,_
+2273,wat,_,stem,_,_,_
+2274,wata,_,stem,_,_,_
+2275,wati,_,stem,_,_,_
+2276,watʲi,_,stem,_,_,_
+2277,waŋən,_,stem,_,_,_
+2278,waɣ,_,stem,Verb,_,_
+2279,waɣl,descend,stem,Verb,herabsteigen,M-K 713 a
+2280,waɣlap,_,stem,_,_,_
+2281,waɣlt,deflate,stem,Verb,herablassen,_
+2282,waːj,socks,stem,Substantive,Strumpfhose,M-K 714a
+2283,waːjim,clearly,stem,Adverb,eindeutig,_
+2284,waːntaːl,_,stem,_,_,_
+2285,waːntl,migrate,stem,Verb,wandern,M-K 716 b
+2286,waːntt,lead,stem,Verb,führen,_
+2287,waːps,son-in-law,stem,Substantive,Schwiegersohn,"Munkácsi-Kálmán, 717b"
+2288,waːr,make,stem,Verb,machen,Balandin-Vakhusheva 22;  Munkácsi-Kálmán 718; Kálmán 1963 (ChrVog) 94
+2289,waːr,_,stem,_,_,_
+2290,waːrap,accomplish,stem,Verb,schaffen,M&K 719b
+2291,waːriɣl,occur,stem,Verb,sich ereignen,_
+2292,waːrmalʲ,thing,stem,Substantive,Sache,
+2293,waːrs,_,stem,_,_,_
+2294,waːrxat,become,stem,Verb,zu etwas werden,M-K 719a
+2295,waːs,SUP,stem,Particle,SUP,_
+2296,waːs,wild duck,stem,Substantive,Wildente,Balandin-Vakhusheva 22;  Munkácsi-Kálmán 720;
+2297,waːssiɣ,anymore,stem,Particle,mehr,_
+2298,waːsəɣ,_,stem,_,_,_
+2299,waːsɣ,_,stem,_,_,_
+2300,waːt,thirty,stem,Cardinal numeral,dreißig,_
+2301,waːta,bank,stem,Substantive,Ufer,Balandin-Vakhusheva 22;  Munkácsi-Kálmán 721; Kálmán 1963 (ChrVog) 94
+2302,waːtʲ,_,stem,_,_,_
+2303,waːtʲa,_,stem,_,_,_
+2304,waːtʲi,short,stem,Adjective,kurz,_
+2305,waːtʲi,a short time,stem,Adverb,eine kurze Zeit,_
+2306,waːtʲixal,often,stem,Adverb,oft,_
+2307,waːŋən,shoulder,stem,Substantive,Schulter,_
+2308,waːŋən xum,assistant,phrase,Substantive,Helfer,_
+2309,waːɣ,know,stem,Verb,wissen,_
+2310,waːɣ,_,stem,_,_,_
+2311,waːɣ,strenght,stem,Substantive,Kraft,_
+2312,waːɣena,_,stem,_,_,_
+2313,waːɣl,descend,stem,Verb,herabsteigen,_
+2314,waːɣlap,pull strap,stem,Substantive,Zugriemen,_
+2315,waːɣliɣp,_,stem,_,_,_
+2316,waːɣləp,abruptly lower,stem,Verb,sich plötzlich herablassen,M/K 713b
+2317,waːɣləɣp,_,stem,_,_,_
+2318,waːɣtaːl,weak,stem,Adjective,kraftlos,_
+2319,wek,"maybe, certainly",stem,Adverb,"vielleicht, gewiss",_
+2320,weriɣt,_,stem,_,_,_
+2321,werm,_,stem,_,_,_
+2322,weːk,certainly,stem,Particle,gewiss,M-K 723a
+2323,weːrit,trust,stem,Verb,vertrauen,_
+2324,weːrm,be able to,stem,Verb,können,_
+2325,weːtra,bucket,stem,Substantive,Eimer,M&K 725
+2326,weːtra,_,stem,_,_,_
+2327,wi,take,stem,Verb,nehmen,_
+2328,wijər,_,stem,_,_,_
+2329,wilʲt,face,stem,Substantive,Gesicht,_
+2330,wina,firewater,stem,Substantive,Branntwein,M-K 727 a
+2331,winawot,crime,stem,Substantive,Verbrechen,_
+2332,winawoːt,_,stem,_,_,_
+2333,wit,water,stem,Substantive,Wasser,_
+2334,wiɣr,red,stem,Adjective,rot,_
+2335,wiɣər,_,stem,_,_,_
+2336,wiːlʲt,_,stem,_,_,_
+2337,wo,_,stem,_,_,_
+2338,woj,fat,stem,Substantive,Fett,_
+2339,wojkan,white,stem,Adjective,weiß,_
+2340,wonʲsʲal,just,stem,Adverb,bloß,_
+2341,wor,_,stem,_,_,_
+2342,worat,try,stem,Verb,versuchen,_
+2343,wori,force,stem,Substantive,Gewalt,_
+2344,woriŋ,violent,stem,Adjective,gewaltsam,_
+2345,wos,HORT,stem,Particle,HORT,_
+2346,wossəɣ,at all,stem,Particle,mehr,M-K 721a
+2347,wosʲkas,throw,stem,Verb,werfen,B/V 26a; M/K 740a
+2348,wotint,send for,stem,Verb,"rufen, bitten",M-K 743a
+2349,wow,_,stem,_,_,_
+2350,woŋxa,_,stem,Substantive,_,_
+2351,woːlʲ,stream pool,stem,Substantive,Flussstrecke,_
+2352,woːntər,European otter,stem,Proper Noun,Fischotter,_
+2353,woːr,forest,stem,Substantive,Wald,_
+2354,woːr jiw,forest,phrase,Substantive,Wald,_
+2355,woːr xum,man living in the forests,phrase,Substantive,im Wald lebender Mann,_
+2356,woːraj,hunt,stem,Verb,jagen,_
+2357,woːrtoːlnaːsʲ,_,stem,Substantive,_,_
+2358,woːrtoːlnut,bear,stem,Substantive,Bär,_
+2359,woːrut,forest spirit,phrase,Substantive,Waldgeist,B-V 25b
+2360,woːw,call,stem,Verb,rufen,Balandin-Vakhusheva 23;  Munkácsi-Kálmán 744; Kálmán 1963 (ChrVog) 95
+2361,woːwinʲt,invite,stem,Verb,einladen,_
+2362,woːŋxa,pit,stem,Substantive,Grube,_
+2363,wusʲkas,throw,stem,Verb,zu Boden werfen,M-K 740a
+2364,wusʲkasal,throw once,stem,Verb,einmal hinschlagen,M-K 740a
+2365,xajt,run,stem,Verb,laufen,_
+2366,xajtal,court,stem,Verb,freien,_
+2367,xajtiɣt,run around,stem,Verb,herumlaufen,_
+2368,xajtup,_,stem,_,_,_
+2369,xal,middle,stem,Substantive,Mitte,_
+2370,xalit,split,stem,Verb,spalten,_
+2371,xaln,among,stem,Postposition,zwischen,_
+2372,xalnəl,out of,stem,Postposition,heraus,_
+2373,xan,hang,stem,Verb,hängen,_
+2374,xans,write,stem,Verb,schreiben,_
+2375,xansaŋ,coloured,stem,Adjective,bunt,_
+2376,xansʲ,_,stem,_,_,_
+2377,xanti,Khanty,stem,Proper Noun,Chanti,_
+2378,xanuj,stick,stem,Verb,festkleben,_
+2379,xanuwj,stick,stem,Verb,festkleben,_
+2380,xanʲisʲt,teach,stem,Verb,lehren,_
+2381,xanʲisʲtaxt,learn,stem,Verb,lernen,_
+2382,xanʲs,_,stem,_,_,_
+2383,xanʲsʲ,know,stem,Verb,wissen,_
+2384,xap,_,stem,_,_,_
+2385,xarit,extinguish,stem,Verb,auslöschen,_
+2386,xariɣt,_,stem,_,_,_
+2387,xart,drag,stem,Verb,zerren,_
+2388,xarumt,_,stem,_,_,_
+2389,xasap,bed curtain,stem,Substantive,Bettvorhang,_
+2390,xasil,_,phrase,_,_,_
+2391,xasil kʷaləɣ,rope of a sledge,phrase,Substantive,Strick am Schlitten,_
+2392,xassumt,_,stem,_,_,_
+2393,xassumtaxt,flinch,stem,Verb,zusammenzucken,_
+2394,xassəmt,start pulling,stem,Verb,zu ziehen anfangen,_
+2395,xasumt,_,stem,_,_,_
+2396,xasʲ-xasʲ-xasʲ,"well, well, well",stem,Interjection,"Ei, ei, ei",_
+2397,xasʲtaːl,unknown,stem,Adjective,unbekannt,_
+2398,xasʲxat,be visible,stem,Verb,zu sehen sein,_
+2399,xaŋx,_,stem,_,_,_
+2400,xaːit,_,stem,_,_,_
+2401,xaːjt,_,stem,_,_,_
+2402,xaːjtup,bridge,stem,Substantive,Brücke,_
+2403,xaːl,_,stem,_,_,_
+2404,xaːlʲ,birch,stem,Substantive,Birke,_
+2405,xaːlʲpiɣ,young birch tree,stem,Substantive,junge Birke,_
+2406,xaːp,boat,stem,Substantive,Boot,_
+2407,xaːr,being,stem,Substantive,Wesen,_
+2408,xaːrt,_,stem,_,_,_
+2409,xaːs,tie down,stem,Verb,zubinden,_
+2410,xaːs,know,stem,Verb,können,_
+2411,xaːsil kʷalɣəl,_,phrase,Substantive,_,_
+2412,xaːssit,become mouldy,stem,Verb,schimmelig werden,_
+2413,xaːŋx,climb,stem,Verb,hinaufgehen,_
+2414,xoi,_,stem,_,_,_
+2415,xoitəl,fast,stem,Adverb,schnell,_
+2416,xol,end,stem,Verb,zu Ende gehen,_
+2417,xola,carrion,stem,Substantive,Aas,_
+2418,xolit,the next day,stem,Adverb,am nächsten Tag,_
+2419,xolitan,in the morning,stem,Adverb,in der Früh,_
+2420,xolʲt,as,stem,Particle,wie,_
+2421,xomi,with the face,stem,Adverb,mit dem Gesicht,_
+2422,xoml,devil,stem,Substantive,Teufel,_
+2423,xomləɣ,beetle,stem,Substantive,Käfer,_
+2424,xon,_,stem,Verb,_,_
+2425,xon,tsar,stem,Substantive,Zar,_
+2426,xonal,once,stem,Adverb,einmal,_
+2427,xont,_,stem,_,_,_
+2428,xont,host,stem,Substantive,Heer,_
+2429,xont,_,stem,_,_,_
+2430,xopəlt,knock,stem,Verb,klopfen,_
+2431,xor,dried chopped fish,stem,Substantive,getrockneter aufgeschnittener Fisch,_
+2432,xoram,adornment,stem,Substantive,Zierde,_
+2433,xort,bark,stem,Verb,bellen,_
+2434,xortxan,buzzard,stem,Substantive,Bussard,_
+2435,xos,_,stem,_,_,_
+2436,xosa,long,stem,Adjective,lang,_
+2437,xosa,a long time,stem,Adverb,lange,_
+2438,xosan,into the distance,stem,Adverb,in die Ferne,_
+2439,xosat,far away,stem,Adverb,weit,_
+2440,xosit,along,stem,Postposition,entlang,_
+2441,xosixat,fling,stem,Verb,sprudeln,_
+2442,xosuwl,lash,stem,Verb,festzurren,_
+2443,xosɣu,sweep,stem,Verb,kehren,_
+2444,xot,which,stem,Interrogative pronoun,"welche,r,s",_
+2445,xot almai,take out,phrase,Verb,herausnehmen,_
+2446,xot ke pəl,_,phrase,_,_,_
+2447,xot kepəl,somehow,phrase,Adverb,irgendwie,_
+2448,xot kʷaːl,go away,phrase,Verb,weggehen,_
+2449,xot leɣmat,pull out,phrase,Verb,zücken,_
+2450,xot li,throw away,phrase,Verb,wegwerfen,_
+2451,xot mus,_,phrase,_,_,_
+2452,xot nujiɣ,flense,phrase,Verb,schinden,_
+2453,xot nujiɣ,_,phrase,_,_,_
+2454,xot ojap,escape,phrase,Verb,davon flüchten,_
+2455,xot per,turn away,phrase,Verb,weg drehen,_
+2456,xot peːst,to peel off,phrase,Verb,loslösen,_
+2457,xot peːstel,disengage,phrase,Verb,freimachen,_
+2458,xot roxt,frighten,phrase,Verb,erschrecken,_
+2459,xot sʲaras,burn,phrase,Verb,brennen,_
+2460,xot tip,get lost,phrase,Verb,sich verirren,_
+2461,xot tujtxat,hide,phrase,Verb,sich verbergen,_
+2462,xot tuːjt,hide,phrase,Verb,verbergen,_
+2463,xot tuːjtiɣlaːsl,hide,phrase,Verb,verbergen,_
+2464,xot xariɣt,extinguish,phrase,Verb,auslöschen,_
+2465,xot xosɣu,sweep,phrase,Verb,kehren,_
+2466,xot=,apart,proclitic,Preverb,auseinander,
+2467,xotal,_,stem,_,_,_
+2468,xotalʲ,where,stem,Interrogative pronoun,wohin,_
+2469,xotalʲ oːlne,wherever it may be,phrase,Adjective,wo es auch sei,_
+2470,xotaŋ,swan,stem,Substantive,Schwan,_
+2471,xoti,which,stem,Interrogative pronoun,welcher,_
+2472,xotjut,who,stem,Interrogative pronoun,wer,B&V 141b
+2473,xotmus,somehow,stem,Adverb,irgendwie,_
+2474,xotpa,_,stem,_,_,_
+2475,xottalʲ,to somewhere,stem,Adverb,irgendwohin,B&V 141
+2476,xottʲut,_,stem,_,_,_
+2477,xotəl,where from,stem,Adverb,woher,_
+2478,xotəm,somehow,stem,Adverb,irgendwie,_
+2479,xotʲut,_,stem,_,_,_
+2480,xout,spruce,stem,Substantive,Fichte,_
+2481,xowt,fir,stem,Substantive,Tanne,"M&K 115a, B&V 136b"
+2482,xoŋxa,_,stem,_,_,_
+2483,xoŋxsa,pipe,stem,Substantive,Pfeife,_
+2484,xoŋxsa,_,stem,_,_,_
+2485,xoː,who,stem,Interrogative pronoun,wer,_
+2486,xoːj,hit,stem,Verb,treffen,M-K 95a
+2487,xoːl,_,stem,_,_,_
+2488,xoːl,die,stem,Verb,sterben,_
+2489,xoːla,corpse,stem,Substantive,Leiche,_
+2490,xoːlʲt,_,stem,_,_,_
+2491,xoːn,czar,stem,Substantive,Kaiser,_
+2492,xoːnt,_,stem,_,_,_
+2493,xoːnt,find,stem,Verb,finden,_
+2494,xoːnt,_,stem,_,_,_
+2495,xoːntel,hear,stem,Verb,hören,_
+2496,xoːntl,to be at war,stem,Verb,Krieg führen,M-K 104b
+2497,xoːntlaxt,wage war,stem,Verb,Krieg führen,_
+2498,xoːntxat,meet,stem,Verb,sich treffen,_
+2499,xoːp,_,stem,_,_,_
+2500,xoːpt,reindeer ox,stem,Substantive,Rentierochs,_
+2501,xoːt,six,stem,Cardinal numeral,sechs,_
+2502,xoːt,where,stem,Interrogative pronoun,wo,_
+2503,xoːtal,sun,stem,Substantive,Sonne,Balandin-Vakhusheva 140;  Munkácsi-Kálmán 112; Kálmán 1963 (ChrVog) 78
+2504,xoːtl,dawn,stem,Verb,Tag werden,_
+2505,xoːtpa,someone,stem,Indefinite pronoun,jemand,
+2506,xoːtta,somewhere,stem,Adverb,irgendwo,_
+2507,xoːtəl,_,stem,_,_,_
+2508,xoːwt,_,stem,_,_,_
+2509,xoːwt sʲaxəl,pine forest,phrase,Substantive,Tannenwald,_
+2510,xoːŋxa,who,stem,Interrogative pronoun,wer,_
+2511,xuj,lie,stem,Verb,liegen,Balandin-Vakhusheva 145;  Munkácsi-Kálmán 116; Kálmán 1963 (ChrVog) 78
+2512,xujipt,lay,stem,Verb,legen,_
+2513,xujipt,_,stem,_,_,_
+2514,xujiɣp,_,stem,_,_,_
+2515,xujt,_,stem,_,_,_
+2516,xujəɣp,sleep,stem,Verb,schlafen,MK 117
+2517,xujəɣpaːl,sleep,stem,Verb,schlafen,"MK 117, BV 29"
+2518,xul,_,stem,_,_,_
+2519,xul,_,stem,_,_,_
+2520,xuliɣl,appear,stem,Verb,auftauchen,_
+2521,xuləɣl,_,stem,_,_,_
+2522,xulʲ,_,stem,_,_,_
+2523,xulʲiɣt,lift,stem,Verb,heraufheben,_
+2524,xulʲt,_,stem,_,_,_
+2525,xum,man,stem,Substantive,Mann,Balandin-Vakhusheva 143;  Munkácsi-Kálmán 122; Kálmán 1963 (ChrVog) 78
+2526,xumle,_,stem,_,_,_
+2527,xumlʲe,like,stem,Coordinating conjunction,so wie,_
+2528,xumlʲe,_,stem,_,_,_
+2529,xummus,_,stem,_,_,_
+2530,xumus,how,stem,Interrogative pronoun,wie,Balandin-Vakhusheva 144;  Munkácsi-Kálmán 91; Kálmán 1963 (ChrVog) 78
+2531,xumuːs,_,stem,_,_,_
+2532,xunt,backpack,stem,Substantive,Ranzen,_
+2533,xuntaml,_,stem,_,_,_
+2534,xuntl,hear,stem,Verb,hören,Balandin 144a
+2535,xunʲ,perhaps,stem,Particle,vielleicht,_
+2536,xunʲ,when,stem,Interrogative pronoun,wann,"M&K 125b, B/V 144b"
+2537,xuraxl,dread,stem,Verb,fürchten,_
+2538,xuri,shape,stem,Substantive,Gestalt,_
+2539,xuri,deck,stem,Substantive,Verdeck,_
+2540,xuril,in the shape of,stem,Postposition,in der Gestalt,Munkácsi-Kálmán 128
+2541,xurip,alike,stem,Postposition,mit Gestalt von,_
+2542,xuriɣ,_,stem,_,_,_
+2543,xurm,_,stem,_,_,_
+2544,xurmit,_,stem,_,_,_
+2545,xurum,_,stem,_,_,_
+2546,xurǝm,_,stem,_,_,_
+2547,xurəm,_,stem,_,_,_
+2548,xurəɣ,sack,stem,Substantive,Sack,_
+2549,xusap,cage,stem,Substantive,Käfig,_
+2550,xusl,cleave,stem,Verb,sich spalten,M-K 129 b
+2551,xuwɣ,buzz,stem,Verb,sausen,_
+2552,xuːl,live in abundance,stem,Verb,in Reichtum leben,_
+2553,xuːl,hear,stem,Verb,hören,"M&K, 100b"
+2554,xuːl,fish,stem,Substantive,Fisch,_
+2555,xuːl,leave behind,stem,Verb,verlassen,_
+2556,xuːlmiɣt,spend the night,stem,Verb,übernachten,_
+2557,xuːlt,show,stem,Verb,zeigen,_
+2558,xuːləɣl,listen to,stem,Verb,hören,Balandin 143
+2559,xuːlʲiɣt,_,stem,_,_,_
+2560,xuːlʲm,ash,stem,Substantive,Asche,"B/V 142b, M/K 121a"
+2561,xuːlʲt,stay,stem,Verb,bleiben,Balandin-Vakhusheva 143;  Munkácsi-Kálmán
+2562,xuːlʲum,_,stem,_,_,_
+2563,xuːn,scoop out,stem,Verb,schöpfen,"M/K 124b, B/V 144a"
+2564,xuːntaml,hear,stem,Verb,hören,"Balandin/vahrusheva, 144a; Munkácsi-Kálmán, 105b;"
+2565,xuːntl,listen,stem,Verb,zuhören,_
+2566,xuːntm,shoulder,stem,Verb,schultern,"M&K 125a, B&V 144a"
+2567,xuːntmalʲt,put on knapsack,stem,Verb,Quersack umbinden,_
+2568,xuːntəl,look,stem,Verb,schauen,K
+2569,xuːnʲ,once,stem,Particle,wenn,_
+2570,xuːriɣ,_,stem,_,_,_
+2571,xuːrm,_,stem,_,_,_
+2572,xuːrmit,third,stem,Ordinal numeral,dritter,_
+2573,xuːrum,_,stem,_,_,_
+2574,xuːrəm,three,stem,Cardinal numeral,drei,Balandin-Vakhusheva 144;  Munkácsi-Kálmán 127; Kálmán 1963 (ChrVog) 79
+2575,xuːsʲ,servant,stem,Substantive,Diener,_
+2576,xuːt,bend,stem,Verb,sich beugen,B&V 145b
+2577,xuːtǝlt,bend,stem,Verb,neigen,_
+2578,xuːtəlt,_,stem,_,_,_
+2579,zakonodatʲelʲnɨj sobranʲija,[Ru. Yugrian Legislative Assembly],phrase,Proper Noun,[Ru. Gesetzgebende Versammlung],
+2580,əstaːrssin,_,stem,_,_,_
