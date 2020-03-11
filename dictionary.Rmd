@@ -1,0 +1,43 @@
+---
+title: "Sanakirja"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(tidyverse)
+library(DT)
+
+dictionary <- read_csv("data/NM_Lexikon.csv", col_names = c("id", "lemma", "en", "type", "pos", "de", "note"), skip = 1) %>%
+  select(lemma, type, pos, en, de, pos)
+
+lexemes <- dictionary %>% filter(type == 'stem')
+
+suffixes <- dictionary %>% filter(type != 'stem') %>%
+  select(lemma, type, pos, en) %>%
+  rename(gloss = en)
+  
+
+```
+
+Tässä toistetun sanakirjan aineisto on peräisin projektien Ob-Ugric languages ja Ob-Ugric database [verkkosivuilta](http://www.babel.gwi.uni-muenchen.de/). Tällä sivulla on käytettävissä projektien [lataussivulla](http://www.babel.gwi.uni-muenchen.de/index.php?abfrage=download) olevan tiedoston [FLEx_Lexica_Mansi_08-2017_lift](http://babel.gwi.uni-muenchen.de/media/archive/flex_lexika_mansi_08-2017.zip) pohjoismansin osuuden taulukkomuotoon viety versio.
+
+Sivuston ohjeiden mukainen viittaus on esitetty alla, ja pyydämme toistamaan sen aina myös tätä taulukkoversiota käytettäessä.
+
+> Data from Ob-Ugric database: analysed text corpora and dictionaries for less described Ob-Ugric dialects. [www.oudb.gwi.uni-muenchen.de](www.oudb.gwi.uni-muenchen.de)
+
+Sanasto on jaettu kahteen osaan, vartaloiden ja erilaisten päätteiden mukaan.
+
+## Sanakirja -- vartalot
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+datatable(lexemes %>%
+            filter(en != '_'))
+```
+
+## Sanakirja -- suffiksit
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+datatable(distinct(suffixes))
+```

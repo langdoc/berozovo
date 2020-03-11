@@ -1,0 +1,12 @@
+---
+title: "Tutkimusaiheet"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+Tänne listataan relevantteja tutkimusaiheita ja niihin liittyvää kirjallisuutta.
+
+### Prolatiivit
+
+Maisterit Niko Partanen ja Riku Erkkilä tutkivat prolatiivi ja transitiivi -sijojen käyttöä komin murteissa. Voisi olla hyvä elisitoida tiettyjä näihin liittyviä rakenteita, jotta saataisiin selkeää aineistoa sijojen produktiivisuudesta eri käyttöyhteyksissä tässä osassa Siperiaa puhutussa komin alamurteessa.

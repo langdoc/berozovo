@@ -1,0 +1,44 @@
+---
+title: "Vanhat aineistot"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+finna_images <- read_csv("data/finna_image_info.csv") %>%
+  mutate(title = Hmisc::capitalize(title)) %>%
+  distinct(signum, .keep_all = TRUE)
+
+sirelius <- finna_images %>%
+  filter(str_detect(author, "Sirelius"))
+
+kannisto <- finna_images %>%
+  filter(str_detect(author, "Kannisto"))
+
+```
+
+Vanhinta kerrostumaa alueen aineistosta edustavat Kanniston ja Sireliuksen keräämät aineistot. Alla on näytteitä heidän avoimesti saatavilla olevista valokuvistaan. 
+
+### Kannisto
+
+```{r, echo=FALSE, results='asis'}
+
+for (image in kannisto %>% split(.$signum)) {
+  cat(str_glue("<center>\n\n
+               ![{image$title}. {image$author}. {image$year}. {image$source}.</br>{image$collection},  {image$rights}. [Lähde: Finna](https://www.finna.fi/Record/{image$signum})]({image$url})
+               \n\n</center>"))
+  }
+```
+
+### Sirelius
+
+```{r, echo=FALSE, results='asis'}
+
+for (image in sirelius %>% split(.$signum)) {
+  cat(str_glue("<center>\n\n
+               ![{image$title}. {image$author}. {image$year}. {image$source}.</br>{image$collection},  {image$rights}. [Lähde: Finna](https://www.finna.fi/Record/{image$signum})]({image$url})
+               \n\n</center>"))
+  }
+```
+
