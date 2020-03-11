@@ -1,0 +1,13 @@
+name: "berozovo"
+output_dir: "docs"
+navbar:
+  title: "Berozovon kenttätyömatka"
+  left:
+    - text: "Matka"
+      href: index.html
+    - text: "Tutkimusaiheet"
+      href: research_topics.html
+    - text: "Sanakirja"
+      href: dictionary.html
+    - text: "Vanhat aineistot"
+      href: old_materials.html
